@@ -1,0 +1,825 @@
+2025-03-18 15:02:16,011 - INFO - Press CTRL+C to quit
+2025-03-18 15:02:16,011 - INFO -  * Restarting with stat
+2025-03-18 15:02:16,779 - INFO - Initializing Administrator roles...
+2025-03-18 15:02:16,914 - INFO - Administrator roles initialized successfully.
+2025-03-18 15:02:16,915 - INFO - Initializing Administrators...
+2025-03-18 15:02:17,091 - INFO - Administrators initialized successfully.
+2025-03-18 15:02:17,092 - INFO - Initializing Images...
+2025-03-18 15:02:19,391 - INFO - Images initialized successfully.
+2025-03-18 15:02:19,392 - INFO - Initializing Reseaux...
+2025-03-18 15:02:19,622 - INFO - Reseaux initialized successfully.
+2025-03-18 15:02:19,623 - INFO - Initializing Member categories...
+2025-03-18 15:02:19,870 - INFO - Member categories initialized successfully.
+2025-03-18 15:02:19,871 - INFO - Initializing Member roles...
+2025-03-18 15:02:20,311 - INFO - Member roles initialized successfully.
+2025-03-18 15:02:20,312 - INFO - Initializing Members...
+2025-03-18 15:02:21,244 - INFO - Members initialized successfully.
+2025-03-18 15:02:21,245 - INFO - Initializing Partners...
+2025-03-18 15:02:21,549 - INFO - Partners initialized successfully.
+2025-03-18 15:02:21,550 - INFO - Initializing Project tags...
+2025-03-18 15:02:21,573 - INFO - Project tags initialized successfully.
+2025-03-18 15:02:21,574 - INFO - Initializing Project categories...
+2025-03-18 15:02:21,597 - INFO - Project categories initialized successfully.
+2025-03-18 15:02:21,598 - INFO - Initializing Project types...
+2025-03-18 15:02:21,625 - INFO - Project types initialized successfully.
+2025-03-18 15:02:21,626 - INFO - Initializing Tag projects...
+2025-03-18 15:02:21,650 - INFO - Tag projects initialized successfully.
+2025-03-18 15:02:21,650 - INFO - Initializing Category projects...
+2025-03-18 15:02:21,674 - INFO - Category projects initialized successfully.
+2025-03-18 15:02:21,675 - INFO - Initializing Category projects...
+2025-03-18 15:02:21,699 - INFO - Category projects initialized successfully.
+2025-03-18 15:02:21,700 - INFO - Initializing Projects...
+2025-03-18 15:02:21,826 - INFO - Projects initialized successfully.
+2025-03-18 15:02:21,827 - INFO - Initializing Services...
+2025-03-18 15:02:22,396 - INFO - Services initialized successfully.
+2025-03-18 15:02:22,398 - INFO - Initializing Pages...
+2025-03-18 15:02:22,463 - INFO - Pages initialized successfully.
+2025-03-18 15:02:22,464 - INFO - Initializing Navbars...
+2025-03-18 15:02:23,095 - INFO - Navbars initialized successfully.
+2025-03-18 15:02:23,096 - INFO - Initializing Portfolios...
+2025-03-18 15:02:23,670 - INFO - Portfolios initialized successfully.
+2025-03-18 15:02:23,671 - INFO - Loading settings...
+2025-03-18 15:02:23,672 - INFO - Settings loaded successfully.
+2025-03-18 15:02:23,847 - WARNING -  * Debugger is active!
+2025-03-18 15:02:23,852 - INFO -  * Debugger PIN: 113-981-766
+2025-03-18 15:02:42,245 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:42] "GET / HTTP/1.1" 200 -
+2025-03-18 15:02:42,482 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:42] "GET /static/js/header.js HTTP/1.1" 304 -
+2025-03-18 15:02:42,484 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:42] "GET /static/css/index.css HTTP/1.1" 304 -
+2025-03-18 15:02:43,034 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:43] "GET /static/css/header.css HTTP/1.1" 304 -
+2025-03-18 15:02:43,070 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:43] "GET /static/content/files/images/arrow_down.png HTTP/1.1" 304 -
+2025-03-18 15:02:43,087 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:43] "GET /static/content/files/images/2025-03-10_22-19-58_favicon.webp HTTP/1.1" 304 -
+2025-03-18 15:02:43,126 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:43] "GET /static/content/files/images/2025-03-10_22-20-15_background-accueil.webp HTTP/1.1" 304 -
+2025-03-18 15:02:43,127 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:43] "GET /static/content/files/images/rendermembers.webp HTTP/1.1" 304 -
+2025-03-18 15:02:43,129 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:43] "GET /static/content/files/images/2025-03-10_22-20-17_mascotte.webp HTTP/1.1" 304 -
+2025-03-18 15:02:43,139 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:43] "GET /static/css/campagne.css HTTP/1.1" 304 -
+2025-03-18 15:02:43,142 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:43] "GET /static/css/footer.css HTTP/1.1" 304 -
+2025-03-18 15:02:43,147 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:43] "GET /static/js/index.js HTTP/1.1" 304 -
+2025-03-18 15:02:43,171 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:43] "GET /static/content/files/images/2025-03-10_22-19-38_membre_easyfrost.webp HTTP/1.1" 304 -
+2025-03-18 15:02:43,174 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:43] "GET /static/content/files/images/2025-03-10_22-20-14_article_test_image.webp HTTP/1.1" 304 -
+2025-03-18 15:02:43,193 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:43] "GET /static/content/files/images/2025-03-10_22-19-17_membre_alexandra.webp HTTP/1.1" 304 -
+2025-03-18 15:02:43,204 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:43] "GET /static/content/files/images/2025-03-10_22-19-09_membre_nizhuan.webp HTTP/1.1" 304 -
+2025-03-18 15:02:43,206 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:43] "GET /static/content/files/images/2025-03-10_22-19-31_membre_drsallan.webp HTTP/1.1" 304 -
+2025-03-18 15:02:43,220 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:43] "GET /static/content/files/images/2025-03-10_22-19-04_membre_bigbublle.webp HTTP/1.1" 304 -
+2025-03-18 15:02:43,233 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:43] "GET /static/content/files/images/2025-03-10_22-20-15_render_contact_us.webp HTTP/1.1" 304 -
+2025-03-18 15:02:43,242 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:43] "GET /static/content/files/images/2025-03-10_22-20-18_brand_background.webp HTTP/1.1" 304 -
+2025-03-18 15:02:43,250 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:43] "GET /static/content/files/images/2025-03-10_22-19-02_logo.webp HTTP/1.1" 304 -
+2025-03-18 15:02:43,266 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:43] "GET /static/content/files/images/2025-03-10_19-42-03_joyca.webp HTTP/1.1" 304 -
+2025-03-18 15:02:43,285 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:43] "GET /static/content/files/images/2025-03-10_22-19-59_betc.webp HTTP/1.1" 304 -
+2025-03-18 15:02:43,287 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:43] "GET /static/content/files/images/2025-03-10_22-20-01_edf.webp HTTP/1.1" 304 -
+2025-03-18 15:02:43,296 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:43] "GET /static/content/files/images/2025-03-10_22-20-01_la-chose.webp HTTP/1.1" 304 -
+2025-03-18 15:02:43,313 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:43] "GET /static/content/files/images/2025-03-10_22-20-02_havas.webp HTTP/1.1" 304 -
+2025-03-18 15:02:43,315 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:43] "GET /static/content/files/images/2025-03-10_22-20-02_grand%20poitiers.webp HTTP/1.1" 304 -
+2025-03-18 15:02:43,320 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:43] "GET /static/content/files/images/2025-03-10_22-20-02_adem.webp HTTP/1.1" 304 -
+2025-03-18 15:02:43,339 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:43] "GET /static/content/files/images/2025-03-10_22-20-03_gotaga.webp HTTP/1.1" 304 -
+2025-03-18 15:02:43,345 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:43] "GET /static/content/files/images/2025-03-10_22-20-04_apericube.webp HTTP/1.1" 304 -
+2025-03-18 15:02:43,347 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:43] "GET /static/content/files/images/2025-03-10_22-20-03_steve.webp HTTP/1.1" 304 -
+2025-03-18 15:02:43,350 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:43] "GET /static/js/campagne.js HTTP/1.1" 304 -
+2025-03-18 15:02:43,361 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:43] "GET /static/content/files/images/V2_banniere_membre_1280x540%201.png HTTP/1.1" 304 -
+2025-03-18 15:02:43,374 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:43] "GET /static/content/files/images/2025-03-10_22-20-09_article_test_logo.webp HTTP/1.1" 304 -
+2025-03-18 15:02:43,381 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:43] "GET /static/content/files/images/2025-02-03_14-47-13_social_discord.svg HTTP/1.1" 304 -
+2025-03-18 15:02:43,865 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:43] "GET /static/content/files/images/2025-02-03_14-47-37_social_discord_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:02:43,873 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:43] "GET /static/content/files/images/2025-02-03_14-48-12_social_insta.svg HTTP/1.1" 304 -
+2025-03-18 15:02:43,929 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:43] "GET /static/content/files/images/2025-02-03_14-48-50_social_tiktok.svg HTTP/1.1" 304 -
+2025-03-18 15:02:43,957 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:43] "GET /static/content/files/images/2025-02-03_14-49-18_social_x.svg HTTP/1.1" 304 -
+2025-03-18 15:02:43,964 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:43] "GET /static/content/files/images/2025-02-03_14-48-25_social_insta_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:02:43,965 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:43] "GET /static/content/files/images/2025-02-03_14-49-08_social_tiktok_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:02:43,987 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:43] "GET /static/content/files/images/2025-02-03_14-49-35_social_x_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:02:43,994 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:43] "GET /static/content/files/images/2025-02-03_14-49-51_social_bluesky.svg HTTP/1.1" 304 -
+2025-03-18 15:02:44,007 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:44] "GET /static/content/files/images/2025-02-03_14-50-05_social_bluesky_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:02:44,059 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:44] "GET /static/content/files/images/2025-02-03_14-50-27_social_linkedin.svg HTTP/1.1" 304 -
+2025-03-18 15:02:44,060 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:44] "GET /static/content/files/images/2025-02-03_14-50-42_social_linkedin_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:02:44,063 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:44] "GET /static/content/files/images/2025-02-03_14-51-06_social_youtube.svg HTTP/1.1" 304 -
+2025-03-18 15:02:44,087 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:44] "GET /static/content/files/images/2025-03-10_22-20-17_social_pmc_hover.webp HTTP/1.1" 304 -
+2025-03-18 15:02:44,088 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:44] "GET /static/content/files/images/2025-02-03_14-51-38_social_youtube_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:02:44,093 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:44] "GET /static/content/files/images/2025-02-27_19-08-30_social_pmc_svg.svg HTTP/1.1" 304 -
+2025-03-18 15:02:44,102 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:44] "GET /static/img/favicon.png HTTP/1.1" 304 -
+2025-03-18 15:02:44,118 - INFO - 127.0.0.1 - - [18/Mar/2025 15:02:44] "GET /static/img/sprite.svg HTTP/1.1" 304 -
+/minesalt
+/fktest
+/testprojet
+/fktest
+/testprojet
+/fktest
+/testprojet
+/minesalt
+/fktest
+/minesalt
+/fktest
+/fktest
+/testprojet
+/testprojet
+/testprojet
+/minesalt
+/testprojet
+/minesalt
+2025-03-18 15:03:35,862 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:35] "GET /portfolio HTTP/1.1" 200 -
+2025-03-18 15:03:35,937 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:35] "GET /static/css/index.css HTTP/1.1" 304 -
+2025-03-18 15:03:35,943 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:35] "GET /static/css/projets/portfolio.css HTTP/1.1" 304 -
+2025-03-18 15:03:35,968 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:35] "GET /static/css/header.css HTTP/1.1" 304 -
+2025-03-18 15:03:35,970 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:35] "GET /static/content/files/images/2025-03-10_22-19-58_favicon.webp HTTP/1.1" 304 -
+2025-03-18 15:03:35,994 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:35] "GET /static/content/files/images/2025-03-10_22-20-23_testport-e.webp HTTP/1.1" 304 -
+2025-03-18 15:03:36,251 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:36] "GET /static/content/files/images/2025-03-10_22-20-19_testport-a.webp HTTP/1.1" 304 -
+2025-03-18 15:03:36,257 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:36] "GET /static/content/files/images/2025-03-10_22-20-20_testport-b.webp HTTP/1.1" 304 -
+2025-03-18 15:03:36,266 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:36] "GET /static/css/footer.css HTTP/1.1" 304 -
+2025-03-18 15:03:36,271 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:36] "GET /static/js/projets/portfolio.js HTTP/1.1" 304 -
+2025-03-18 15:03:36,285 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:36] "GET /static/content/files/images/2025-03-10_22-20-21_testport-c.webp HTTP/1.1" 304 -
+2025-03-18 15:03:36,297 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:36] "GET /static/content/files/images/2025-03-10_22-20-22_testport-d.webp HTTP/1.1" 304 -
+2025-03-18 15:03:36,301 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:36] "GET /static/content/files/images/2025-03-10_22-20-24_testport-f.webp HTTP/1.1" 304 -
+2025-03-18 15:03:36,308 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:36] "GET /static/content/files/images/2025-03-10_22-20-37_testport-r.webp HTTP/1.1" 304 -
+2025-03-18 15:03:36,313 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:36] "GET /static/content/files/images/2025-03-10_22-20-29_testport-j.webp HTTP/1.1" 304 -
+2025-03-18 15:03:36,336 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:36] "GET /static/content/files/images/2025-03-10_22-20-26_testport-g.webp HTTP/1.1" 304 -
+2025-03-18 15:03:36,338 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:36] "GET /static/content/files/images/2025-03-10_22-20-15_background-accueil.webp HTTP/1.1" 304 -
+2025-03-18 15:03:36,346 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:36] "GET /static/content/files/images/2025-03-10_22-20-38_testport-s.webp HTTP/1.1" 304 -
+2025-03-18 15:03:36,355 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:36] "GET /static/content/files/images/2025-03-10_22-20-27_testport-h.webp HTTP/1.1" 304 -
+2025-03-18 15:03:36,356 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:36] "GET /static/content/files/images/2025-03-10_22-20-31_testport-k.webp HTTP/1.1" 304 -
+2025-03-18 15:03:36,360 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:36] "GET /static/content/files/images/2025-03-10_22-20-28_testport-i.webp HTTP/1.1" 304 -
+2025-03-18 15:03:36,373 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:36] "GET /static/content/files/images/2025-03-10_22-20-32_testport-l.webp HTTP/1.1" 304 -
+2025-03-18 15:03:36,379 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:36] "GET /static/content/files/images/2025-03-10_22-20-33_testport-m.webp HTTP/1.1" 304 -
+2025-03-18 15:03:36,381 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:36] "GET /static/content/files/images/2025-02-03_14-47-13_social_discord.svg HTTP/1.1" 304 -
+2025-03-18 15:03:36,384 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:36] "GET /static/content/files/images/2025-03-10_22-20-35_testport-o.webp HTTP/1.1" 304 -
+2025-03-18 15:03:36,397 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:36] "GET /static/content/files/images/2025-03-10_22-20-36_testport-q.webp HTTP/1.1" 304 -
+2025-03-18 15:03:36,399 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:36] "GET /static/content/files/images/2025-03-10_22-20-36_testport-p.webp HTTP/1.1" 304 -
+2025-03-18 15:03:36,401 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:36] "GET /static/content/files/images/2025-02-03_14-47-37_social_discord_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:03:36,403 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:36] "GET /static/content/files/images/2025-02-03_14-48-12_social_insta.svg HTTP/1.1" 304 -
+2025-03-18 15:03:36,419 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:36] "GET /static/content/files/images/2025-02-03_14-48-25_social_insta_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:03:36,422 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:36] "GET /static/content/files/images/2025-02-03_14-48-50_social_tiktok.svg HTTP/1.1" 304 -
+2025-03-18 15:03:36,431 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:36] "GET /static/content/files/images/2025-02-03_14-49-08_social_tiktok_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:03:36,435 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:36] "GET /static/content/files/images/2025-02-03_14-49-18_social_x.svg HTTP/1.1" 304 -
+2025-03-18 15:03:36,438 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:36] "GET /static/content/files/images/2025-02-03_14-49-35_social_x_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:03:36,452 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:36] "GET /static/content/files/images/2025-02-03_14-49-51_social_bluesky.svg HTTP/1.1" 304 -
+2025-03-18 15:03:36,452 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:36] "GET /static/content/files/images/2025-02-03_14-50-05_social_bluesky_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:03:36,453 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:36] "GET /static/content/files/images/2025-02-03_14-50-27_social_linkedin.svg HTTP/1.1" 304 -
+2025-03-18 15:03:36,463 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:36] "GET /static/content/files/images/2025-02-03_14-50-42_social_linkedin_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:03:36,470 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:36] "GET /static/content/files/images/2025-02-03_14-51-06_social_youtube.svg HTTP/1.1" 304 -
+2025-03-18 15:03:36,471 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:36] "GET /static/content/files/images/2025-02-03_14-51-38_social_youtube_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:03:36,474 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:36] "GET /static/content/files/images/2025-03-10_22-20-17_social_pmc_hover.webp HTTP/1.1" 304 -
+2025-03-18 15:03:36,485 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:36] "GET /static/content/files/images/2025-02-27_19-08-30_social_pmc_svg.svg HTTP/1.1" 304 -
+2025-03-18 15:03:36,492 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:36] "GET /static/img/sprite.svg HTTP/1.1" 304 -
+2025-03-18 15:03:36,501 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:36] "GET /static/img/favicon.png HTTP/1.1" 304 -
+test
+Vérification de la page projet: /minesalt
+Vérification de la page projet: /fktest
+Vérification de la page projet: /testprojet
+2025-03-18 15:03:41,804 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:41] "GET /testprojet HTTP/1.1" 200 -
+2025-03-18 15:03:41,907 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:41] "GET /static/css/index.css HTTP/1.1" 304 -
+2025-03-18 15:03:41,909 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:41] "GET /static/css/projets/projet.css HTTP/1.1" 304 -
+2025-03-18 15:03:41,919 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:41] "GET /static/css/projets/projets.css HTTP/1.1" 304 -
+2025-03-18 15:03:41,925 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:41] "GET /static/css/carousel.css HTTP/1.1" 304 -
+2025-03-18 15:03:41,930 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:41] "GET /static/css/header.css HTTP/1.1" 304 -
+2025-03-18 15:03:41,935 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:41] "GET /static/content/files/images/2025-03-10_22-19-58_favicon.webp HTTP/1.1" 304 -
+2025-03-18 15:03:41,936 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:41] "GET /static/content/files/images/arrow_down.png HTTP/1.1" 304 -
+2025-03-18 15:03:42,103 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:42] "GET /static/content/files/images/2025-03-10_22-20-28_testport-i.webp HTTP/1.1" 304 -
+2025-03-18 15:03:42,105 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:42] "GET /static/css/footer.css HTTP/1.1" 304 -
+2025-03-18 15:03:42,109 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:42] "GET /static/content/files/images/2025-03-10_22-20-29_testport-j.webp HTTP/1.1" 304 -
+2025-03-18 15:03:42,116 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:42] "GET /static/js/header.js HTTP/1.1" 304 -
+2025-03-18 15:03:42,124 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:42] "GET /static/js/projets/projets.js HTTP/1.1" 304 -
+2025-03-18 15:03:42,139 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:42] "GET /static/js/projets/projet.js HTTP/1.1" 304 -
+2025-03-18 15:03:42,145 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:42] "GET /static/content/files/images/by-nc-sa%201.png HTTP/1.1" 304 -
+2025-03-18 15:03:42,145 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:42] "GET /static/js/carousel.js HTTP/1.1" 304 -
+2025-03-18 15:03:42,147 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:42] "GET /static/content/files/images/2025-03-10_22-20-24_testport-f.webp HTTP/1.1" 304 -
+2025-03-18 15:03:42,163 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:42] "GET /static/content/files/images/2025-02-03_14-47-13_social_discord.svg HTTP/1.1" 304 -
+2025-03-18 15:03:42,164 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:42] "GET /static/content/files/images/2025-02-03_14-47-37_social_discord_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:03:42,173 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:42] "GET /static/content/files/images/2025-02-03_14-48-25_social_insta_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:03:42,176 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:42] "GET /static/content/files/images/2025-02-03_14-48-12_social_insta.svg HTTP/1.1" 304 -
+2025-03-18 15:03:42,178 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:42] "GET /static/content/files/images/2025-02-03_14-48-50_social_tiktok.svg HTTP/1.1" 304 -
+2025-03-18 15:03:42,183 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:42] "GET /static/content/files/images/2025-02-03_14-49-08_social_tiktok_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:03:42,192 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:42] "GET /static/content/files/images/2025-02-03_14-49-18_social_x.svg HTTP/1.1" 304 -
+2025-03-18 15:03:42,202 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:42] "GET /static/content/files/images/2025-02-03_14-49-35_social_x_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:03:42,207 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:42] "GET /static/content/files/images/2025-02-03_14-49-51_social_bluesky.svg HTTP/1.1" 304 -
+2025-03-18 15:03:42,213 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:42] "GET /static/content/files/images/2025-02-03_14-50-05_social_bluesky_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:03:42,215 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:42] "GET /static/content/files/images/2025-02-03_14-50-27_social_linkedin.svg HTTP/1.1" 304 -
+2025-03-18 15:03:42,221 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:42] "GET /static/content/files/images/2025-02-03_14-50-42_social_linkedin_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:03:42,227 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:42] "GET /static/content/files/images/2025-02-03_14-51-06_social_youtube.svg HTTP/1.1" 304 -
+2025-03-18 15:03:42,245 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:42] "GET /static/content/files/images/2025-03-10_22-20-17_social_pmc_hover.webp HTTP/1.1" 304 -
+2025-03-18 15:03:42,256 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:42] "GET /static/content/files/images/2025-02-03_14-51-38_social_youtube_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:03:42,270 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:42] "GET /static/content/files/images/2025-03-10_22-20-15_background-accueil.webp HTTP/1.1" 304 -
+2025-03-18 15:03:42,271 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:42] "GET /static/content/files/images/2025-02-27_19-08-30_social_pmc_svg.svg HTTP/1.1" 304 -
+2025-03-18 15:03:42,272 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:42] "GET /static/img/sprite.svg HTTP/1.1" 304 -
+2025-03-18 15:03:42,357 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:42] "GET /static/img/favicon.png HTTP/1.1" 304 -
+Chargement de la page marketplace...
+Récupération des données...
+Contexte préparé pour le rendu.
+2025-03-18 15:03:52,033 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:52] "GET /marketplace HTTP/1.1" 200 -
+2025-03-18 15:03:52,134 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:52] "GET /static/css/index.css HTTP/1.1" 304 -
+2025-03-18 15:03:52,140 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:52] "GET /static/css/header.css HTTP/1.1" 304 -
+2025-03-18 15:03:52,146 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:52] "GET /static/css/marketplace.css HTTP/1.1" 304 -
+2025-03-18 15:03:52,149 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:52] "GET /static/content/files/images/2025-03-10_22-19-58_favicon.webp HTTP/1.1" 304 -
+2025-03-18 15:03:52,153 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:52] "GET /static/img/assets/minecoin.png HTTP/1.1" 304 -
+2025-03-18 15:03:52,355 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:52] "GET /static/css/footer.css HTTP/1.1" 304 -
+2025-03-18 15:03:52,356 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:52] "GET /static/img/assets/star.png HTTP/1.1" 304 -
+2025-03-18 15:03:52,378 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:52] "GET /static/content/files/images/2025-02-03_14-47-13_social_discord.svg HTTP/1.1" 304 -
+2025-03-18 15:03:52,384 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:52] "GET /static/content/files/images/2025-02-03_14-47-37_social_discord_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:03:52,386 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:52] "GET /static/content/files/images/2025-02-03_14-48-25_social_insta_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:03:52,388 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:52] "GET /static/content/files/images/2025-02-03_14-48-12_social_insta.svg HTTP/1.1" 304 -
+2025-03-18 15:03:52,401 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:52] "GET /static/content/files/images/2025-02-03_14-48-50_social_tiktok.svg HTTP/1.1" 304 -
+2025-03-18 15:03:52,404 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:52] "GET /static/content/files/images/2025-02-03_14-49-08_social_tiktok_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:03:52,412 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:52] "GET /static/content/files/images/2025-02-03_14-49-18_social_x.svg HTTP/1.1" 304 -
+2025-03-18 15:03:52,418 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:52] "GET /static/content/files/images/2025-02-03_14-49-35_social_x_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:03:52,446 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:52] "GET /static/content/files/images/2025-02-03_14-49-51_social_bluesky.svg HTTP/1.1" 304 -
+2025-03-18 15:03:52,446 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:52] "GET /static/content/files/images/2025-02-03_14-50-05_social_bluesky_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:03:52,448 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:52] "GET /static/content/files/images/2025-02-03_14-50-42_social_linkedin_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:03:52,450 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:52] "GET /static/content/files/images/2025-02-03_14-50-27_social_linkedin.svg HTTP/1.1" 304 -
+2025-03-18 15:03:52,452 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:52] "GET /static/content/files/images/2025-02-03_14-51-06_social_youtube.svg HTTP/1.1" 304 -
+2025-03-18 15:03:52,457 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:52] "GET /static/content/files/images/2025-02-03_14-51-38_social_youtube_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:03:52,467 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:52] "GET /static/content/files/images/2025-03-10_22-20-15_background-accueil.webp HTTP/1.1" 304 -
+2025-03-18 15:03:52,482 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:52] "GET /static/content/files/images/2025-03-10_22-20-17_social_pmc_hover.webp HTTP/1.1" 304 -
+2025-03-18 15:03:52,484 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:52] "GET /static/content/files/images/2025-02-27_19-08-30_social_pmc_svg.svg HTTP/1.1" 304 -
+2025-03-18 15:03:52,496 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:52] "GET /static/img/sprite.svg HTTP/1.1" 304 -
+2025-03-18 15:03:52,507 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:52] "GET /static/img/favicon.png HTTP/1.1" 304 -
+2025-03-18 15:03:53,633 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:53] "GET /marketplace/products?page=2 HTTP/1.1" 200 -
+2025-03-18 15:03:54,242 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:54] "GET /marketplace/products?page=2 HTTP/1.1" 200 -
+2025-03-18 15:03:55,687 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:55] "GET /marketplace/products?page=4 HTTP/1.1" 200 -
+2025-03-18 15:03:56,046 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:56] "GET /marketplace/products?page=4 HTTP/1.1" 200 -
+2025-03-18 15:03:58,159 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:58] "GET /marketplace/products?page=6 HTTP/1.1" 200 -
+2025-03-18 15:03:58,619 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:58] "GET /marketplace/products?page=6 HTTP/1.1" 200 -
+2025-03-18 15:03:59,101 - INFO - 127.0.0.1 - - [18/Mar/2025 15:03:59] "GET /marketplace/products?page=6 HTTP/1.1" 200 -
+/minesalt
+/fktest
+/testprojet
+/fktest
+/testprojet
+/fktest
+/testprojet
+/minesalt
+/fktest
+/minesalt
+/fktest
+/fktest
+/testprojet
+/testprojet
+/testprojet
+/minesalt
+/testprojet
+/minesalt
+2025-03-18 15:04:04,263 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /portfolio HTTP/1.1" 200 -
+2025-03-18 15:04:04,343 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /static/css/index.css HTTP/1.1" 304 -
+2025-03-18 15:04:04,349 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /static/css/projets/portfolio.css HTTP/1.1" 304 -
+2025-03-18 15:04:04,352 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /static/css/header.css HTTP/1.1" 304 -
+2025-03-18 15:04:04,361 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /static/content/files/images/2025-03-10_22-19-58_favicon.webp HTTP/1.1" 304 -
+2025-03-18 15:04:04,363 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /static/content/files/images/2025-03-10_22-20-23_testport-e.webp HTTP/1.1" 304 -
+2025-03-18 15:04:04,714 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /static/content/files/images/2025-03-10_22-20-38_testport-s.webp HTTP/1.1" 304 -
+2025-03-18 15:04:04,718 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /static/content/files/images/2025-03-10_22-20-36_testport-p.webp HTTP/1.1" 304 -
+2025-03-18 15:04:04,729 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /static/content/files/images/2025-03-10_22-20-33_testport-m.webp HTTP/1.1" 304 -
+2025-03-18 15:04:04,731 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /static/content/files/images/2025-03-10_22-20-36_testport-q.webp HTTP/1.1" 304 -
+2025-03-18 15:04:04,746 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /static/content/files/images/2025-03-10_22-20-20_testport-b.webp HTTP/1.1" 304 -
+2025-03-18 15:04:04,748 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /static/content/files/images/2025-03-10_22-20-19_testport-a.webp HTTP/1.1" 304 -
+2025-03-18 15:04:04,773 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /static/content/files/images/2025-03-10_22-20-21_testport-c.webp HTTP/1.1" 304 -
+2025-03-18 15:04:04,791 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /static/css/footer.css HTTP/1.1" 304 -
+2025-03-18 15:04:04,796 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /static/js/projets/portfolio.js HTTP/1.1" 304 -
+2025-03-18 15:04:04,799 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /static/content/files/images/2025-03-10_22-20-22_testport-d.webp HTTP/1.1" 304 -
+2025-03-18 15:04:04,805 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /static/content/files/images/2025-03-10_22-20-37_testport-r.webp HTTP/1.1" 304 -
+2025-03-18 15:04:04,806 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /static/content/files/images/2025-03-10_22-20-24_testport-f.webp HTTP/1.1" 304 -
+2025-03-18 15:04:04,812 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /static/content/files/images/2025-03-10_22-20-29_testport-j.webp HTTP/1.1" 304 -
+2025-03-18 15:04:04,819 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /static/content/files/images/2025-03-10_22-20-26_testport-g.webp HTTP/1.1" 304 -
+2025-03-18 15:04:04,827 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /static/content/files/images/2025-03-10_22-20-27_testport-h.webp HTTP/1.1" 304 -
+2025-03-18 15:04:04,833 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /static/content/files/images/2025-03-10_22-20-28_testport-i.webp HTTP/1.1" 304 -
+2025-03-18 15:04:04,843 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /static/content/files/images/2025-03-10_22-20-15_background-accueil.webp HTTP/1.1" 304 -
+2025-03-18 15:04:04,850 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /static/content/files/images/2025-03-10_22-20-31_testport-k.webp HTTP/1.1" 304 -
+2025-03-18 15:04:04,854 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /static/content/files/images/2025-03-10_22-20-32_testport-l.webp HTTP/1.1" 304 -
+2025-03-18 15:04:04,859 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /static/content/files/images/2025-03-10_22-20-35_testport-o.webp HTTP/1.1" 304 -
+2025-03-18 15:04:04,862 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /static/content/files/images/2025-02-03_14-47-13_social_discord.svg HTTP/1.1" 304 -
+2025-03-18 15:04:04,872 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /static/content/files/images/2025-02-03_14-47-37_social_discord_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:04:04,877 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /static/content/files/images/2025-02-03_14-48-12_social_insta.svg HTTP/1.1" 304 -
+2025-03-18 15:04:04,880 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /static/content/files/images/2025-02-03_14-48-25_social_insta_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:04:04,884 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /static/content/files/images/2025-02-03_14-48-50_social_tiktok.svg HTTP/1.1" 304 -
+2025-03-18 15:04:04,893 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /static/content/files/images/2025-02-03_14-49-08_social_tiktok_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:04:04,895 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /static/content/files/images/2025-02-03_14-49-18_social_x.svg HTTP/1.1" 304 -
+2025-03-18 15:04:04,897 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /static/content/files/images/2025-02-03_14-49-35_social_x_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:04:04,908 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /static/content/files/images/2025-02-03_14-49-51_social_bluesky.svg HTTP/1.1" 304 -
+2025-03-18 15:04:04,911 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /static/content/files/images/2025-02-03_14-50-05_social_bluesky_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:04:04,918 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /static/content/files/images/2025-02-03_14-50-27_social_linkedin.svg HTTP/1.1" 304 -
+2025-03-18 15:04:04,922 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /static/content/files/images/2025-02-03_14-50-42_social_linkedin_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:04:04,923 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /static/content/files/images/2025-02-03_14-51-06_social_youtube.svg HTTP/1.1" 304 -
+2025-03-18 15:04:04,929 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /static/content/files/images/2025-02-03_14-51-38_social_youtube_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:04:04,939 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /static/content/files/images/2025-03-10_22-20-17_social_pmc_hover.webp HTTP/1.1" 304 -
+2025-03-18 15:04:04,946 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /static/img/sprite.svg HTTP/1.1" 304 -
+2025-03-18 15:04:04,947 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /static/content/files/images/2025-02-27_19-08-30_social_pmc_svg.svg HTTP/1.1" 304 -
+2025-03-18 15:04:04,962 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:04] "GET /static/img/favicon.png HTTP/1.1" 304 -
+2025-03-18 15:04:06,372 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:06] "GET / HTTP/1.1" 200 -
+2025-03-18 15:04:06,451 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:06] "GET /static/js/header.js HTTP/1.1" 304 -
+2025-03-18 15:04:06,483 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:06] "GET /static/css/index.css HTTP/1.1" 304 -
+2025-03-18 15:04:06,489 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:06] "GET /static/css/header.css HTTP/1.1" 304 -
+2025-03-18 15:04:06,494 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:06] "GET /static/content/files/images/2025-03-10_22-19-58_favicon.webp HTTP/1.1" 304 -
+2025-03-18 15:04:06,495 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:06] "GET /static/content/files/images/arrow_down.png HTTP/1.1" 304 -
+2025-03-18 15:04:06,815 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:06] "GET /static/content/files/images/rendermembers.webp HTTP/1.1" 304 -
+2025-03-18 15:04:06,816 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:06] "GET /static/content/files/images/2025-03-10_22-20-14_article_test_image.webp HTTP/1.1" 304 -
+2025-03-18 15:04:06,858 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:06] "GET /static/css/campagne.css HTTP/1.1" 304 -
+2025-03-18 15:04:06,862 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:06] "GET /static/css/footer.css HTTP/1.1" 304 -
+2025-03-18 15:04:06,884 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:06] "GET /static/js/index.js HTTP/1.1" 304 -
+2025-03-18 15:04:06,887 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:06] "GET /static/content/files/images/2025-03-10_22-20-15_background-accueil.webp HTTP/1.1" 304 -
+2025-03-18 15:04:06,896 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:06] "GET /static/content/files/images/2025-03-10_22-20-15_render_contact_us.webp HTTP/1.1" 304 -
+2025-03-18 15:04:06,900 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:06] "GET /static/js/campagne.js HTTP/1.1" 304 -
+2025-03-18 15:04:06,919 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:06] "GET /static/content/files/images/2025-02-03_14-47-37_social_discord_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:04:06,919 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:06] "GET /static/content/files/images/2025-02-03_14-47-13_social_discord.svg HTTP/1.1" 304 -
+2025-03-18 15:04:06,943 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:06] "GET /static/content/files/images/2025-02-03_14-48-12_social_insta.svg HTTP/1.1" 304 -
+2025-03-18 15:04:06,951 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:06] "GET /static/content/files/images/2025-02-03_14-48-25_social_insta_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:04:06,957 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:06] "GET /static/content/files/images/2025-02-03_14-48-50_social_tiktok.svg HTTP/1.1" 304 -
+2025-03-18 15:04:06,959 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:06] "GET /static/content/files/images/2025-02-03_14-49-08_social_tiktok_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:04:06,967 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:06] "GET /static/content/files/images/2025-02-03_14-49-18_social_x.svg HTTP/1.1" 304 -
+2025-03-18 15:04:06,982 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:06] "GET /static/content/files/images/2025-02-03_14-49-35_social_x_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:04:06,999 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:06] "GET /static/content/files/images/2025-02-03_14-49-51_social_bluesky.svg HTTP/1.1" 304 -
+2025-03-18 15:04:07,011 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:07] "GET /static/content/files/images/2025-02-03_14-50-05_social_bluesky_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:04:07,014 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:07] "GET /static/content/files/images/2025-02-03_14-50-27_social_linkedin.svg HTTP/1.1" 304 -
+2025-03-18 15:04:07,033 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:07] "GET /static/content/files/images/2025-02-03_14-50-42_social_linkedin_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:04:07,045 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:07] "GET /static/content/files/images/2025-02-03_14-51-06_social_youtube.svg HTTP/1.1" 304 -
+2025-03-18 15:04:07,046 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:07] "GET /static/content/files/images/2025-02-03_14-51-38_social_youtube_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:04:07,052 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:07] "GET /static/content/files/images/2025-03-10_22-20-17_social_pmc_hover.webp HTTP/1.1" 304 -
+2025-03-18 15:04:07,055 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:07] "GET /static/content/files/images/2025-02-27_19-08-30_social_pmc_svg.svg HTTP/1.1" 304 -
+2025-03-18 15:04:07,067 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:07] "GET /static/img/sprite.svg HTTP/1.1" 304 -
+2025-03-18 15:04:07,080 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:07] "GET /static/content/files/images/2025-03-10_22-20-18_brand_background.webp HTTP/1.1" 304 -
+2025-03-18 15:04:07,083 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:07] "GET /static/content/files/images/2025-03-10_22-19-02_logo.webp HTTP/1.1" 304 -
+2025-03-18 15:04:07,097 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:07] "GET /static/content/files/images/2025-03-10_19-42-03_joyca.webp HTTP/1.1" 304 -
+2025-03-18 15:04:07,111 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:07] "GET /static/content/files/images/2025-03-10_22-19-59_betc.webp HTTP/1.1" 304 -
+2025-03-18 15:04:07,124 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:07] "GET /static/content/files/images/2025-03-10_22-20-01_edf.webp HTTP/1.1" 304 -
+2025-03-18 15:04:07,125 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:07] "GET /static/content/files/images/2025-03-10_22-20-01_la-chose.webp HTTP/1.1" 304 -
+2025-03-18 15:04:07,132 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:07] "GET /static/content/files/images/2025-03-10_22-20-02_havas.webp HTTP/1.1" 304 -
+2025-03-18 15:04:07,142 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:07] "GET /static/content/files/images/2025-03-10_22-20-02_grand%20poitiers.webp HTTP/1.1" 304 -
+2025-03-18 15:04:07,156 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:07] "GET /static/content/files/images/2025-03-10_22-20-02_adem.webp HTTP/1.1" 304 -
+2025-03-18 15:04:07,158 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:07] "GET /static/content/files/images/2025-03-10_22-20-03_gotaga.webp HTTP/1.1" 304 -
+2025-03-18 15:04:07,160 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:07] "GET /static/content/files/images/2025-03-10_22-20-03_steve.webp HTTP/1.1" 304 -
+2025-03-18 15:04:07,164 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:07] "GET /static/content/files/images/2025-03-10_22-20-04_apericube.webp HTTP/1.1" 304 -
+2025-03-18 15:04:07,179 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:07] "GET /static/img/favicon.png HTTP/1.1" 304 -
+2025-03-18 15:04:07,274 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:07] "GET /static/content/files/images/2025-03-10_22-19-31_membre_drsallan.webp HTTP/1.1" 304 -
+2025-03-18 15:04:07,348 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:07] "GET /static/content/files/images/2025-03-10_22-19-09_membre_nizhuan.webp HTTP/1.1" 304 -
+2025-03-18 15:04:07,611 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:07] "GET /static/content/files/images/2025-03-10_22-20-17_mascotte.webp HTTP/1.1" 304 -
+2025-03-18 15:04:07,616 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:07] "GET /static/content/files/images/2025-03-10_22-19-04_membre_bigbublle.webp HTTP/1.1" 304 -
+2025-03-18 15:04:07,621 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:07] "GET /static/content/files/images/2025-03-10_22-19-38_membre_easyfrost.webp HTTP/1.1" 304 -
+2025-03-18 15:04:07,624 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:07] "GET /static/content/files/images/2025-03-10_22-19-17_membre_alexandra.webp HTTP/1.1" 304 -
+2025-03-18 15:04:09,078 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:09] "GET /membres HTTP/1.1" 200 -
+2025-03-18 15:04:09,164 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:09] "GET /static/css/teams/membres.css HTTP/1.1" 304 -
+2025-03-18 15:04:09,173 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:09] "GET /static/css/index.css HTTP/1.1" 304 -
+2025-03-18 15:04:09,174 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:09] "GET /static/css/header.css HTTP/1.1" 304 -
+2025-03-18 15:04:09,179 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:09] "GET /static/content/files/images/2025-03-10_22-19-58_favicon.webp HTTP/1.1" 304 -
+2025-03-18 15:04:09,184 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:09] "GET /static/content/files/images/2025-03-10_22-19-04_membre_bigbublle.webp HTTP/1.1" 304 -
+2025-03-18 15:04:09,586 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:09] "GET /static/content/files/images/2025-03-10_22-19-09_membre_nizhuan.webp HTTP/1.1" 304 -
+2025-03-18 15:04:09,595 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:09] "GET /static/css/footer.css HTTP/1.1" 304 -
+2025-03-18 15:04:09,603 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:09] "GET /static/content/files/images/2025-03-10_22-19-38_membre_easyfrost.webp HTTP/1.1" 304 -
+2025-03-18 15:04:09,613 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:09] "GET /static/content/files/images/2025-03-10_22-19-13_membre_adri.webp HTTP/1.1" 304 -
+2025-03-18 15:04:09,614 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:09] "GET /static/content/files/images/2025-03-10_22-20-43_membre_mathis.webp HTTP/1.1" 304 -
+2025-03-18 15:04:09,615 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:09] "GET /static/content/files/images/2025-03-10_22-21-01_membre_solheaven.webp HTTP/1.1" 304 -
+2025-03-18 15:04:09,619 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:09] "GET /static/content/files/images/2025-03-10_22-20-57_membre_popi_craft.webp HTTP/1.1" 304 -
+2025-03-18 15:04:09,630 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:09] "GET /static/content/files/images/2025-03-10_22-20-47_membre_nemerios.webp HTTP/1.1" 304 -
+2025-03-18 15:04:09,636 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:09] "GET /static/content/files/images/2025-03-10_22-20-15_background-accueil.webp HTTP/1.1" 304 -
+2025-03-18 15:04:09,643 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:09] "GET /static/content/files/images/2025-03-10_22-21-13_membre_vitalie.webp HTTP/1.1" 304 -
+2025-03-18 15:04:09,660 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:09] "GET /static/content/files/images/2025-03-10_22-21-04_membre_spino.webp HTTP/1.1" 304 -
+2025-03-18 15:04:09,664 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:09] "GET /static/content/files/images/2025-03-10_22-19-53_membre_marvin_99.webp HTTP/1.1" 304 -
+2025-03-18 15:04:09,677 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:09] "GET /static/content/files/images/2025-03-10_22-19-31_membre_drsallan.webp HTTP/1.1" 304 -
+2025-03-18 15:04:09,681 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:09] "GET /static/content/files/images/2025-03-10_22-19-27_membre_dorian_04.webp HTTP/1.1" 304 -
+2025-03-18 15:04:09,685 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:09] "GET /static/content/files/images/2025-03-10_22-19-48_membre_lordldoitor.webp HTTP/1.1" 304 -
+2025-03-18 15:04:09,690 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:09] "GET /static/img/sprite.svg HTTP/1.1" 304 -
+2025-03-18 15:04:09,693 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:09] "GET /static/content/files/images/2025-03-10_22-21-22_membre_xraider.webp HTTP/1.1" 304 -
+2025-03-18 15:04:09,705 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:09] "GET /static/content/files/images/2025-03-10_22-19-44_membre_gioco.webp HTTP/1.1" 304 -
+2025-03-18 15:04:09,705 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:09] "GET /static/content/files/images/2025-03-10_22-19-22_membre_carnagiul.webp HTTP/1.1" 304 -
+test
+Vérification de la page projet: /minesalt
+Vérification de la page projet: /fktest
+Vérification de la page projet: /testprojet
+Vérification de la page projet: /testtest
+Vérification de la page personnalisée: /mentions-legales
+Page non trouvée
+2025-03-18 15:04:09,773 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:09] "GET /favicon.ico HTTP/1.1" 404 -
+2025-03-18 15:04:12,234 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET / HTTP/1.1" 200 -
+2025-03-18 15:04:12,292 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/js/header.js HTTP/1.1" 304 -
+2025-03-18 15:04:12,296 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/css/index.css HTTP/1.1" 304 -
+2025-03-18 15:04:12,303 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/css/header.css HTTP/1.1" 304 -
+2025-03-18 15:04:12,308 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/content/files/images/arrow_down.png HTTP/1.1" 304 -
+2025-03-18 15:04:12,308 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/content/files/images/2025-03-10_22-19-58_favicon.webp HTTP/1.1" 304 -
+2025-03-18 15:04:12,514 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/css/campagne.css HTTP/1.1" 304 -
+2025-03-18 15:04:12,516 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/content/files/images/2025-03-10_22-20-14_article_test_image.webp HTTP/1.1" 304 -
+2025-03-18 15:04:12,516 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/content/files/images/2025-03-10_22-20-15_background-accueil.webp HTTP/1.1" 304 -
+2025-03-18 15:04:12,517 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/css/footer.css HTTP/1.1" 304 -
+2025-03-18 15:04:12,517 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/js/index.js HTTP/1.1" 304 -
+2025-03-18 15:04:12,518 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/content/files/images/rendermembers.webp HTTP/1.1" 304 -
+2025-03-18 15:04:12,540 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/content/files/images/2025-03-10_22-20-15_render_contact_us.webp HTTP/1.1" 304 -
+2025-03-18 15:04:12,549 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/js/campagne.js HTTP/1.1" 304 -
+2025-03-18 15:04:12,558 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/content/files/images/2025-02-03_14-47-13_social_discord.svg HTTP/1.1" 304 -
+2025-03-18 15:04:12,563 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/content/files/images/2025-02-03_14-47-37_social_discord_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:04:12,573 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/content/files/images/2025-02-03_14-48-12_social_insta.svg HTTP/1.1" 304 -
+2025-03-18 15:04:12,577 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/content/files/images/2025-02-03_14-48-25_social_insta_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:04:12,578 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/content/files/images/2025-02-03_14-48-50_social_tiktok.svg HTTP/1.1" 304 -
+2025-03-18 15:04:12,589 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/content/files/images/2025-02-03_14-49-08_social_tiktok_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:04:12,592 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/content/files/images/2025-02-03_14-49-18_social_x.svg HTTP/1.1" 304 -
+2025-03-18 15:04:12,595 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/content/files/images/2025-02-03_14-49-35_social_x_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:04:12,598 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/content/files/images/2025-02-03_14-50-05_social_bluesky_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:04:12,599 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/content/files/images/2025-02-03_14-49-51_social_bluesky.svg HTTP/1.1" 304 -
+2025-03-18 15:04:12,606 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/content/files/images/2025-02-03_14-50-27_social_linkedin.svg HTTP/1.1" 304 -
+2025-03-18 15:04:12,611 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/content/files/images/2025-02-03_14-50-42_social_linkedin_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:04:12,614 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/content/files/images/2025-02-03_14-51-06_social_youtube.svg HTTP/1.1" 304 -
+2025-03-18 15:04:12,619 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/content/files/images/2025-02-03_14-51-38_social_youtube_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:04:12,631 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/content/files/images/2025-03-10_22-20-17_social_pmc_hover.webp HTTP/1.1" 304 -
+2025-03-18 15:04:12,632 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/content/files/images/2025-02-27_19-08-30_social_pmc_svg.svg HTTP/1.1" 304 -
+2025-03-18 15:04:12,635 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/img/sprite.svg HTTP/1.1" 304 -
+2025-03-18 15:04:12,640 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/content/files/images/2025-03-10_22-20-18_brand_background.webp HTTP/1.1" 304 -
+2025-03-18 15:04:12,641 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/content/files/images/2025-03-10_22-19-02_logo.webp HTTP/1.1" 304 -
+2025-03-18 15:04:12,644 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/content/files/images/2025-03-10_19-42-03_joyca.webp HTTP/1.1" 304 -
+2025-03-18 15:04:12,658 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/content/files/images/2025-03-10_22-19-59_betc.webp HTTP/1.1" 304 -
+2025-03-18 15:04:12,660 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/content/files/images/2025-03-10_22-20-01_edf.webp HTTP/1.1" 304 -
+2025-03-18 15:04:12,663 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/content/files/images/2025-03-10_22-20-01_la-chose.webp HTTP/1.1" 304 -
+2025-03-18 15:04:12,668 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/content/files/images/2025-03-10_22-20-02_havas.webp HTTP/1.1" 304 -
+2025-03-18 15:04:12,675 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/content/files/images/2025-03-10_22-20-02_grand%20poitiers.webp HTTP/1.1" 304 -
+2025-03-18 15:04:12,679 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/content/files/images/2025-03-10_22-20-02_adem.webp HTTP/1.1" 304 -
+2025-03-18 15:04:12,680 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/content/files/images/2025-03-10_22-20-03_gotaga.webp HTTP/1.1" 304 -
+2025-03-18 15:04:12,683 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/content/files/images/2025-03-10_22-20-03_steve.webp HTTP/1.1" 304 -
+2025-03-18 15:04:12,690 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/content/files/images/2025-03-10_22-20-04_apericube.webp HTTP/1.1" 304 -
+2025-03-18 15:04:12,691 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/img/favicon.png HTTP/1.1" 304 -
+2025-03-18 15:04:12,752 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/content/files/images/2025-03-10_22-19-31_membre_drsallan.webp HTTP/1.1" 304 -
+2025-03-18 15:04:12,812 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/content/files/images/2025-03-10_22-19-09_membre_nizhuan.webp HTTP/1.1" 304 -
+2025-03-18 15:04:12,881 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/content/files/images/2025-03-10_22-19-04_membre_bigbublle.webp HTTP/1.1" 304 -
+2025-03-18 15:04:12,884 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/content/files/images/2025-03-10_22-20-17_mascotte.webp HTTP/1.1" 304 -
+2025-03-18 15:04:12,986 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/content/files/images/2025-03-10_22-19-38_membre_easyfrost.webp HTTP/1.1" 304 -
+2025-03-18 15:04:12,991 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:12] "GET /static/content/files/images/2025-03-10_22-19-17_membre_alexandra.webp HTTP/1.1" 304 -
+2025-03-18 15:04:13,082 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:13] "GET /static/content/files/images/2025-03-10_22-20-09_article_test_logo.webp HTTP/1.1" 304 -
+2025-03-18 15:04:13,296 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:13] "GET /static/content/files/images/V2_banniere_membre_1280x540%201.png HTTP/1.1" 304 -
+2025-03-18 15:04:49,110 - INFO - Email envoyé avec succès à contact@example.com
+2025-03-18 15:04:49,128 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "POST /contactus HTTP/1.1" 302 -
+2025-03-18 15:04:49,180 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET / HTTP/1.1" 200 -
+2025-03-18 15:04:49,322 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/js/header.js HTTP/1.1" 304 -
+2025-03-18 15:04:49,331 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/css/index.css HTTP/1.1" 304 -
+2025-03-18 15:04:49,338 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/css/header.css HTTP/1.1" 304 -
+2025-03-18 15:04:49,342 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/content/files/images/2025-03-10_22-19-58_favicon.webp HTTP/1.1" 304 -
+2025-03-18 15:04:49,348 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/content/files/images/arrow_down.png HTTP/1.1" 304 -
+2025-03-18 15:04:49,497 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/content/files/images/rendermembers.webp HTTP/1.1" 304 -
+2025-03-18 15:04:49,522 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/content/files/images/2025-03-10_22-20-14_article_test_image.webp HTTP/1.1" 304 -
+2025-03-18 15:04:49,533 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/css/footer.css HTTP/1.1" 304 -
+2025-03-18 15:04:49,536 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/content/files/images/2025-03-10_22-20-15_background-accueil.webp HTTP/1.1" 304 -
+2025-03-18 15:04:49,536 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/css/campagne.css HTTP/1.1" 304 -
+2025-03-18 15:04:49,542 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/js/index.js HTTP/1.1" 304 -
+2025-03-18 15:04:49,554 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/content/files/images/2025-03-10_22-20-15_render_contact_us.webp HTTP/1.1" 304 -
+2025-03-18 15:04:49,559 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/js/campagne.js HTTP/1.1" 304 -
+2025-03-18 15:04:49,569 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/content/files/images/2025-02-03_14-47-13_social_discord.svg HTTP/1.1" 304 -
+2025-03-18 15:04:49,587 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/content/files/images/2025-02-03_14-47-37_social_discord_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:04:49,606 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/content/files/images/2025-02-03_14-48-12_social_insta.svg HTTP/1.1" 304 -
+2025-03-18 15:04:49,611 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/content/files/images/2025-02-03_14-48-50_social_tiktok.svg HTTP/1.1" 304 -
+2025-03-18 15:04:49,611 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/content/files/images/2025-02-03_14-48-25_social_insta_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:04:49,627 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/content/files/images/2025-02-03_14-49-08_social_tiktok_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:04:49,642 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/content/files/images/2025-02-03_14-49-18_social_x.svg HTTP/1.1" 304 -
+2025-03-18 15:04:49,648 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/content/files/images/2025-02-03_14-49-35_social_x_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:04:49,651 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/content/files/images/2025-02-03_14-49-51_social_bluesky.svg HTTP/1.1" 304 -
+2025-03-18 15:04:49,666 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/content/files/images/2025-02-03_14-50-05_social_bluesky_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:04:49,677 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/content/files/images/2025-02-03_14-50-27_social_linkedin.svg HTTP/1.1" 304 -
+2025-03-18 15:04:49,682 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/content/files/images/2025-02-03_14-50-42_social_linkedin_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:04:49,683 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/content/files/images/2025-02-03_14-51-06_social_youtube.svg HTTP/1.1" 304 -
+2025-03-18 15:04:49,695 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/content/files/images/2025-02-03_14-51-38_social_youtube_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:04:49,703 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/content/files/images/2025-03-10_22-20-17_social_pmc_hover.webp HTTP/1.1" 304 -
+2025-03-18 15:04:49,710 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/content/files/images/2025-02-27_19-08-30_social_pmc_svg.svg HTTP/1.1" 304 -
+2025-03-18 15:04:49,711 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/content/files/images/2025-03-10_22-20-18_brand_background.webp HTTP/1.1" 304 -
+2025-03-18 15:04:49,724 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/content/files/images/2025-03-10_22-19-02_logo.webp HTTP/1.1" 304 -
+2025-03-18 15:04:49,731 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/content/files/images/2025-03-10_19-42-03_joyca.webp HTTP/1.1" 304 -
+2025-03-18 15:04:49,738 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/content/files/images/2025-03-10_22-19-59_betc.webp HTTP/1.1" 304 -
+2025-03-18 15:04:49,748 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/content/files/images/2025-03-10_22-20-01_edf.webp HTTP/1.1" 304 -
+2025-03-18 15:04:49,755 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/content/files/images/2025-03-10_22-20-01_la-chose.webp HTTP/1.1" 304 -
+2025-03-18 15:04:49,759 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/content/files/images/2025-03-10_22-20-02_havas.webp HTTP/1.1" 304 -
+2025-03-18 15:04:49,765 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/content/files/images/2025-03-10_22-20-02_grand%20poitiers.webp HTTP/1.1" 304 -
+2025-03-18 15:04:49,779 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/content/files/images/2025-03-10_22-20-03_gotaga.webp HTTP/1.1" 304 -
+2025-03-18 15:04:49,780 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/content/files/images/2025-03-10_22-20-02_adem.webp HTTP/1.1" 304 -
+2025-03-18 15:04:49,792 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/content/files/images/2025-03-10_22-20-03_steve.webp HTTP/1.1" 304 -
+2025-03-18 15:04:49,807 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/content/files/images/2025-03-10_22-20-04_apericube.webp HTTP/1.1" 304 -
+2025-03-18 15:04:49,817 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/img/favicon.png HTTP/1.1" 304 -
+2025-03-18 15:04:49,828 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/content/files/images/2025-03-10_22-19-31_membre_drsallan.webp HTTP/1.1" 304 -
+2025-03-18 15:04:49,915 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/content/files/images/2025-03-10_22-19-09_membre_nizhuan.webp HTTP/1.1" 304 -
+2025-03-18 15:04:49,995 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/content/files/images/2025-03-10_22-19-04_membre_bigbublle.webp HTTP/1.1" 304 -
+2025-03-18 15:04:49,998 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:49] "GET /static/content/files/images/2025-03-10_22-20-17_mascotte.webp HTTP/1.1" 304 -
+2025-03-18 15:04:50,019 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:50] "GET /static/content/files/images/2025-03-10_22-19-38_membre_easyfrost.webp HTTP/1.1" 304 -
+2025-03-18 15:04:50,036 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:50] "GET /static/content/files/images/2025-03-10_22-19-17_membre_alexandra.webp HTTP/1.1" 304 -
+2025-03-18 15:04:50,302 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:50] "GET /static/content/files/images/2025-03-10_22-20-09_article_test_logo.webp HTTP/1.1" 304 -
+2025-03-18 15:04:50,934 - INFO - 127.0.0.1 - - [18/Mar/2025 15:04:50] "GET /static/content/files/images/V2_banniere_membre_1280x540%201.png HTTP/1.1" 304 -
+2025-03-18 15:05:36,535 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:36] "GET /projets HTTP/1.1" 200 -
+2025-03-18 15:05:36,633 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:36] "GET /static/css/index.css HTTP/1.1" 304 -
+2025-03-18 15:05:36,643 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:36] "GET /static/css/projets/projets.css HTTP/1.1" 304 -
+2025-03-18 15:05:36,646 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:36] "GET /static/css/projets/portfolio.css HTTP/1.1" 304 -
+2025-03-18 15:05:36,650 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:36] "GET /static/css/header.css HTTP/1.1" 304 -
+2025-03-18 15:05:36,657 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:36] "GET /static/content/files/images/2025-03-10_22-19-58_favicon.webp HTTP/1.1" 304 -
+2025-03-18 15:05:36,659 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:36] "GET /static/content/files/images/arrow_down.png HTTP/1.1" 304 -
+2025-03-18 15:05:37,067 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:37] "GET /static/css/footer.css HTTP/1.1" 304 -
+2025-03-18 15:05:37,094 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:37] "GET /static/content/files/images/2025-02-03_14-48-12_social_insta.svg HTTP/1.1" 304 -
+2025-03-18 15:05:37,099 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:37] "GET /static/content/files/images/2025-02-03_14-48-25_social_insta_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:05:37,100 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:37] "GET /static/js/projets/projets.js HTTP/1.1" 304 -
+2025-03-18 15:05:37,103 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:37] "GET /static/content/files/images/2025-02-03_14-47-13_social_discord.svg HTTP/1.1" 304 -
+2025-03-18 15:05:37,105 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:37] "GET /static/content/files/images/2025-02-03_14-47-37_social_discord_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:05:37,105 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:37] "GET /static/content/files/images/2025-02-03_14-48-50_social_tiktok.svg HTTP/1.1" 304 -
+2025-03-18 15:05:37,120 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:37] "GET /static/content/files/images/2025-02-03_14-49-08_social_tiktok_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:05:37,128 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:37] "GET /static/content/files/images/2025-02-03_14-49-18_social_x.svg HTTP/1.1" 304 -
+2025-03-18 15:05:37,136 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:37] "GET /static/content/files/images/2025-03-10_22-20-15_background-accueil.webp HTTP/1.1" 304 -
+2025-03-18 15:05:37,142 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:37] "GET /static/content/files/images/2025-02-03_14-49-35_social_x_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:05:37,153 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:37] "GET /static/content/files/images/2025-02-03_14-49-51_social_bluesky.svg HTTP/1.1" 304 -
+2025-03-18 15:05:37,154 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:37] "GET /static/content/files/images/2025-02-03_14-50-05_social_bluesky_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:05:37,165 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:37] "GET /static/content/files/images/2025-02-03_14-50-27_social_linkedin.svg HTTP/1.1" 304 -
+2025-03-18 15:05:37,171 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:37] "GET /static/content/files/images/2025-02-03_14-50-42_social_linkedin_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:05:37,177 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:37] "GET /static/content/files/images/2025-02-03_14-51-06_social_youtube.svg HTTP/1.1" 304 -
+2025-03-18 15:05:37,180 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:37] "GET /static/content/files/images/2025-02-03_14-51-38_social_youtube_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:05:37,194 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:37] "GET /static/content/files/images/2025-03-10_22-20-17_social_pmc_hover.webp HTTP/1.1" 304 -
+2025-03-18 15:05:37,201 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:37] "GET /static/content/files/images/2025-02-27_19-08-30_social_pmc_svg.svg HTTP/1.1" 304 -
+2025-03-18 15:05:37,206 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:37] "GET /static/img/sprite.svg HTTP/1.1" 304 -
+2025-03-18 15:05:37,211 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:37] "GET /static/content/files/images/2025-03-10_22-20-14_article_test_image.webp HTTP/1.1" 304 -
+2025-03-18 15:05:37,216 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:37] "GET /static/content/files/images/2025-03-10_22-19-02_logo.webp HTTP/1.1" 304 -
+2025-03-18 15:05:37,220 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:37] "GET /static/img/favicon.png HTTP/1.1" 304 -
+2025-03-18 15:05:40,513 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:40] "POST /api/filter-projects HTTP/1.1" 200 -
+test
+Vérification de la page projet: /minesalt
+Vérification de la page projet: /fktest
+Vérification de la page projet: /testprojet
+Vérification de la page projet: /testtest
+Vérification de la page personnalisée: /mentions-legales
+Page non trouvée
+2025-03-18 15:05:42,385 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:42] "GET /undefined HTTP/1.1" 404 -
+test
+Vérification de la page projet: /minesalt
+2025-03-18 15:05:42,690 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:42] "GET /static/img/favicon.png HTTP/1.1" 304 -
+Vérification de la page projet: /fktest
+Vérification de la page projet: /testprojet
+Vérification de la page projet: /testtest
+Vérification de la page personnalisée: /mentions-legales
+Page non trouvée
+2025-03-18 15:05:42,693 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:42] "GET /img/text.jpg HTTP/1.1" 404 -
+2025-03-18 15:05:46,159 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:46] "POST /api/filter-projects HTTP/1.1" 200 -
+2025-03-18 15:05:46,696 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:46] "POST /api/filter-projects HTTP/1.1" 200 -
+Chargement de la page marketplace...
+Récupération des données...
+Contexte préparé pour le rendu.
+2025-03-18 15:05:52,731 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:52] "GET /marketplace HTTP/1.1" 200 -
+2025-03-18 15:05:52,800 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:52] "GET /static/css/index.css HTTP/1.1" 304 -
+2025-03-18 15:05:52,812 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:52] "GET /static/css/marketplace.css HTTP/1.1" 304 -
+2025-03-18 15:05:52,834 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:52] "GET /static/css/header.css HTTP/1.1" 304 -
+2025-03-18 15:05:52,834 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:52] "GET /static/img/assets/minecoin.png HTTP/1.1" 304 -
+2025-03-18 15:05:52,835 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:52] "GET /static/content/files/images/2025-03-10_22-19-58_favicon.webp HTTP/1.1" 304 -
+2025-03-18 15:05:53,064 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:53] "GET /static/css/footer.css HTTP/1.1" 304 -
+2025-03-18 15:05:53,064 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:53] "GET /static/img/assets/star.png HTTP/1.1" 304 -
+2025-03-18 15:05:53,097 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:53] "GET /static/content/files/images/2025-02-03_14-47-13_social_discord.svg HTTP/1.1" 304 -
+2025-03-18 15:05:53,100 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:53] "GET /static/content/files/images/2025-02-03_14-47-37_social_discord_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:05:53,105 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:53] "GET /static/content/files/images/2025-02-03_14-48-12_social_insta.svg HTTP/1.1" 304 -
+2025-03-18 15:05:53,117 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:53] "GET /static/content/files/images/2025-02-03_14-48-25_social_insta_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:05:53,125 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:53] "GET /static/content/files/images/2025-02-03_14-48-50_social_tiktok.svg HTTP/1.1" 304 -
+2025-03-18 15:05:53,129 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:53] "GET /static/content/files/images/2025-02-03_14-49-08_social_tiktok_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:05:53,142 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:53] "GET /static/content/files/images/2025-03-10_22-20-15_background-accueil.webp HTTP/1.1" 304 -
+2025-03-18 15:05:53,146 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:53] "GET /static/content/files/images/2025-02-03_14-49-18_social_x.svg HTTP/1.1" 304 -
+2025-03-18 15:05:53,149 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:53] "GET /static/content/files/images/2025-02-03_14-49-35_social_x_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:05:53,161 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:53] "GET /static/content/files/images/2025-02-03_14-49-51_social_bluesky.svg HTTP/1.1" 304 -
+2025-03-18 15:05:53,167 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:53] "GET /static/content/files/images/2025-02-03_14-50-05_social_bluesky_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:05:53,180 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:53] "GET /static/content/files/images/2025-02-03_14-50-27_social_linkedin.svg HTTP/1.1" 304 -
+2025-03-18 15:05:53,187 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:53] "GET /static/content/files/images/2025-02-03_14-50-42_social_linkedin_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:05:53,198 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:53] "GET /static/content/files/images/2025-02-03_14-51-06_social_youtube.svg HTTP/1.1" 304 -
+2025-03-18 15:05:53,206 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:53] "GET /static/content/files/images/2025-02-03_14-51-38_social_youtube_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:05:53,211 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:53] "GET /static/content/files/images/2025-03-10_22-20-17_social_pmc_hover.webp HTTP/1.1" 304 -
+2025-03-18 15:05:53,218 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:53] "GET /static/content/files/images/2025-02-27_19-08-30_social_pmc_svg.svg HTTP/1.1" 304 -
+2025-03-18 15:05:53,225 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:53] "GET /static/img/sprite.svg HTTP/1.1" 304 -
+2025-03-18 15:05:53,229 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:53] "GET /static/img/favicon.png HTTP/1.1" 304 -
+2025-03-18 15:05:56,378 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:56] "GET /marketplace/products?page=2 HTTP/1.1" 200 -
+2025-03-18 15:05:56,890 - INFO - 127.0.0.1 - - [18/Mar/2025 15:05:56] "GET /marketplace/products?page=2 HTTP/1.1" 200 -
+2025-03-18 15:06:24,956 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:24] "GET /membres HTTP/1.1" 200 -
+2025-03-18 15:06:25,048 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:25] "GET /static/css/teams/membres.css HTTP/1.1" 304 -
+2025-03-18 15:06:25,057 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:25] "GET /static/css/index.css HTTP/1.1" 304 -
+2025-03-18 15:06:25,064 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:25] "GET /static/css/header.css HTTP/1.1" 304 -
+2025-03-18 15:06:25,070 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:25] "GET /static/content/files/images/2025-03-10_22-19-58_favicon.webp HTTP/1.1" 304 -
+2025-03-18 15:06:25,075 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:25] "GET /static/content/files/images/2025-03-10_22-19-04_membre_bigbublle.webp HTTP/1.1" 304 -
+2025-03-18 15:06:25,313 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:25] "GET /static/content/files/images/2025-03-10_22-19-09_membre_nizhuan.webp HTTP/1.1" 304 -
+2025-03-18 15:06:25,331 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:25] "GET /static/content/files/images/2025-03-10_22-21-01_membre_solheaven.webp HTTP/1.1" 304 -
+2025-03-18 15:06:25,341 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:25] "GET /static/content/files/images/2025-03-10_22-19-13_membre_adri.webp HTTP/1.1" 304 -
+2025-03-18 15:06:25,347 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:25] "GET /static/content/files/images/2025-03-10_22-20-43_membre_mathis.webp HTTP/1.1" 304 -
+2025-03-18 15:06:25,350 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:25] "GET /static/content/files/images/2025-03-10_22-20-57_membre_popi_craft.webp HTTP/1.1" 304 -
+2025-03-18 15:06:25,364 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:25] "GET /static/content/files/images/2025-03-10_22-19-38_membre_easyfrost.webp HTTP/1.1" 304 -
+2025-03-18 15:06:25,373 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:25] "GET /static/css/footer.css HTTP/1.1" 304 -
+2025-03-18 15:06:25,386 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:25] "GET /static/content/files/images/2025-03-10_22-20-47_membre_nemerios.webp HTTP/1.1" 304 -
+2025-03-18 15:06:25,389 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:25] "GET /static/img/sprite.svg HTTP/1.1" 304 -
+2025-03-18 15:06:25,399 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:25] "GET /static/content/files/images/2025-03-10_22-21-13_membre_vitalie.webp HTTP/1.1" 304 -
+2025-03-18 15:06:25,407 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:25] "GET /static/content/files/images/2025-03-10_22-21-04_membre_spino.webp HTTP/1.1" 304 -
+2025-03-18 15:06:25,415 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:25] "GET /static/content/files/images/2025-03-10_22-20-15_background-accueil.webp HTTP/1.1" 304 -
+2025-03-18 15:06:25,430 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:25] "GET /static/content/files/images/2025-03-10_22-19-53_membre_marvin_99.webp HTTP/1.1" 304 -
+2025-03-18 15:06:25,439 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:25] "GET /static/content/files/images/2025-03-10_22-19-48_membre_lordldoitor.webp HTTP/1.1" 304 -
+2025-03-18 15:06:25,444 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:25] "GET /static/content/files/images/2025-03-10_22-19-27_membre_dorian_04.webp HTTP/1.1" 304 -
+2025-03-18 15:06:25,449 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:25] "GET /static/content/files/images/2025-03-10_22-19-44_membre_gioco.webp HTTP/1.1" 304 -
+2025-03-18 15:06:25,456 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:25] "GET /static/content/files/images/2025-03-10_22-21-22_membre_xraider.webp HTTP/1.1" 304 -
+2025-03-18 15:06:25,462 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:25] "GET /static/content/files/images/2025-03-10_22-19-31_membre_drsallan.webp HTTP/1.1" 304 -
+2025-03-18 15:06:25,465 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:25] "GET /static/content/files/images/2025-03-10_22-19-22_membre_carnagiul.webp HTTP/1.1" 304 -
+Chargement de la page marketplace...
+Récupération des données...
+Contexte préparé pour le rendu.
+2025-03-18 15:06:52,919 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:52] "GET /marketplace HTTP/1.1" 200 -
+2025-03-18 15:06:53,000 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:53] "GET /static/css/index.css HTTP/1.1" 304 -
+2025-03-18 15:06:53,010 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:53] "GET /static/css/marketplace.css HTTP/1.1" 304 -
+2025-03-18 15:06:53,013 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:53] "GET /static/css/header.css HTTP/1.1" 304 -
+2025-03-18 15:06:53,020 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:53] "GET /static/content/files/images/2025-03-10_22-19-58_favicon.webp HTTP/1.1" 304 -
+2025-03-18 15:06:53,023 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:53] "GET /static/img/assets/minecoin.png HTTP/1.1" 304 -
+2025-03-18 15:06:53,224 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:53] "GET /static/content/files/images/2025-02-03_14-47-37_social_discord_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:06:53,224 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:53] "GET /static/img/assets/star.png HTTP/1.1" 304 -
+2025-03-18 15:06:53,225 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:53] "GET /static/content/files/images/2025-02-03_14-47-13_social_discord.svg HTTP/1.1" 304 -
+2025-03-18 15:06:53,225 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:53] "GET /static/css/footer.css HTTP/1.1" 304 -
+2025-03-18 15:06:53,226 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:53] "GET /static/content/files/images/2025-02-03_14-48-12_social_insta.svg HTTP/1.1" 304 -
+2025-03-18 15:06:53,228 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:53] "GET /static/content/files/images/2025-02-03_14-48-25_social_insta_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:06:53,238 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:53] "GET /static/content/files/images/2025-03-10_22-20-15_background-accueil.webp HTTP/1.1" 304 -
+2025-03-18 15:06:53,253 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:53] "GET /static/content/files/images/2025-02-03_14-48-50_social_tiktok.svg HTTP/1.1" 304 -
+2025-03-18 15:06:53,268 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:53] "GET /static/content/files/images/2025-02-03_14-49-08_social_tiktok_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:06:53,276 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:53] "GET /static/content/files/images/2025-02-03_14-49-35_social_x_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:06:53,277 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:53] "GET /static/content/files/images/2025-02-03_14-49-18_social_x.svg HTTP/1.1" 304 -
+2025-03-18 15:06:53,292 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:53] "GET /static/content/files/images/2025-02-03_14-49-51_social_bluesky.svg HTTP/1.1" 304 -
+2025-03-18 15:06:53,293 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:53] "GET /static/content/files/images/2025-02-03_14-50-05_social_bluesky_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:06:53,299 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:53] "GET /static/content/files/images/2025-02-03_14-50-27_social_linkedin.svg HTTP/1.1" 304 -
+2025-03-18 15:06:53,304 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:53] "GET /static/content/files/images/2025-02-03_14-50-42_social_linkedin_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:06:53,321 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:53] "GET /static/content/files/images/2025-02-03_14-51-06_social_youtube.svg HTTP/1.1" 304 -
+2025-03-18 15:06:53,328 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:53] "GET /static/content/files/images/2025-02-03_14-51-38_social_youtube_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:06:53,334 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:53] "GET /static/content/files/images/2025-03-10_22-20-17_social_pmc_hover.webp HTTP/1.1" 304 -
+2025-03-18 15:06:53,339 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:53] "GET /static/content/files/images/2025-02-27_19-08-30_social_pmc_svg.svg HTTP/1.1" 304 -
+2025-03-18 15:06:53,347 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:53] "GET /static/img/sprite.svg HTTP/1.1" 304 -
+2025-03-18 15:06:53,353 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:53] "GET /static/img/favicon.png HTTP/1.1" 304 -
+2025-03-18 15:06:54,962 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:54] "GET /projets HTTP/1.1" 200 -
+2025-03-18 15:06:55,039 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:55] "GET /static/css/index.css HTTP/1.1" 304 -
+2025-03-18 15:06:55,044 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:55] "GET /static/css/projets/projets.css HTTP/1.1" 304 -
+2025-03-18 15:06:55,057 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:55] "GET /static/content/files/images/2025-03-10_22-19-58_favicon.webp HTTP/1.1" 304 -
+2025-03-18 15:06:55,057 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:55] "GET /static/css/projets/portfolio.css HTTP/1.1" 304 -
+2025-03-18 15:06:55,057 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:55] "GET /static/css/header.css HTTP/1.1" 304 -
+2025-03-18 15:06:55,060 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:55] "GET /static/content/files/images/arrow_down.png HTTP/1.1" 304 -
+2025-03-18 15:06:55,172 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:55] "GET /static/css/footer.css HTTP/1.1" 304 -
+2025-03-18 15:06:55,205 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:55] "GET /static/js/projets/projets.js HTTP/1.1" 304 -
+2025-03-18 15:06:55,205 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:55] "GET /static/content/files/images/2025-02-03_14-47-13_social_discord.svg HTTP/1.1" 304 -
+2025-03-18 15:06:55,205 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:55] "GET /static/content/files/images/2025-02-03_14-48-12_social_insta.svg HTTP/1.1" 304 -
+2025-03-18 15:06:55,207 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:55] "GET /static/content/files/images/2025-02-03_14-48-25_social_insta_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:06:55,207 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:55] "GET /static/content/files/images/2025-02-03_14-47-37_social_discord_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:06:55,209 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:55] "GET /static/content/files/images/2025-02-03_14-48-50_social_tiktok.svg HTTP/1.1" 304 -
+2025-03-18 15:06:55,219 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:55] "GET /static/content/files/images/2025-03-10_22-20-15_background-accueil.webp HTTP/1.1" 304 -
+2025-03-18 15:06:55,230 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:55] "GET /static/content/files/images/2025-02-03_14-49-08_social_tiktok_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:06:55,236 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:55] "GET /static/content/files/images/2025-02-03_14-49-18_social_x.svg HTTP/1.1" 304 -
+2025-03-18 15:06:55,244 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:55] "GET /static/content/files/images/2025-02-03_14-49-35_social_x_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:06:55,249 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:55] "GET /static/content/files/images/2025-02-03_14-49-51_social_bluesky.svg HTTP/1.1" 304 -
+2025-03-18 15:06:55,255 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:55] "GET /static/content/files/images/2025-02-03_14-50-05_social_bluesky_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:06:55,261 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:55] "GET /static/content/files/images/2025-02-03_14-50-27_social_linkedin.svg HTTP/1.1" 304 -
+2025-03-18 15:06:55,269 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:55] "GET /static/content/files/images/2025-02-03_14-50-42_social_linkedin_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:06:55,274 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:55] "GET /static/content/files/images/2025-02-03_14-51-06_social_youtube.svg HTTP/1.1" 304 -
+2025-03-18 15:06:55,283 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:55] "GET /static/content/files/images/2025-02-03_14-51-38_social_youtube_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:06:55,289 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:55] "GET /static/content/files/images/2025-03-10_22-20-17_social_pmc_hover.webp HTTP/1.1" 304 -
+2025-03-18 15:06:55,291 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:55] "GET /static/content/files/images/2025-02-27_19-08-30_social_pmc_svg.svg HTTP/1.1" 304 -
+2025-03-18 15:06:55,302 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:55] "GET /static/img/sprite.svg HTTP/1.1" 304 -
+2025-03-18 15:06:55,305 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:55] "GET /static/content/files/images/2025-03-10_22-20-14_article_test_image.webp HTTP/1.1" 304 -
+2025-03-18 15:06:55,308 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:55] "GET /static/content/files/images/2025-03-10_22-19-02_logo.webp HTTP/1.1" 304 -
+2025-03-18 15:06:55,324 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:55] "GET /static/img/favicon.png HTTP/1.1" 304 -
+/minesalt
+/fktest
+/testprojet
+/fktest
+/testprojet
+/fktest
+/testprojet
+/minesalt
+/fktest
+/minesalt
+/fktest
+/fktest
+/testprojet
+/testprojet
+/testprojet
+/minesalt
+/testprojet
+/minesalt
+2025-03-18 15:06:56,919 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:56] "GET /portfolio HTTP/1.1" 200 -
+2025-03-18 15:06:57,009 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:57] "GET /static/css/index.css HTTP/1.1" 304 -
+2025-03-18 15:06:57,018 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:57] "GET /static/css/projets/portfolio.css HTTP/1.1" 304 -
+2025-03-18 15:06:57,022 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:57] "GET /static/css/header.css HTTP/1.1" 304 -
+2025-03-18 15:06:57,025 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:57] "GET /static/content/files/images/2025-03-10_22-19-58_favicon.webp HTTP/1.1" 304 -
+2025-03-18 15:06:57,026 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:57] "GET /static/content/files/images/2025-03-10_22-20-23_testport-e.webp HTTP/1.1" 304 -
+2025-03-18 15:06:57,121 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:57] "GET /static/content/files/images/2025-03-10_22-20-19_testport-a.webp HTTP/1.1" 304 -
+2025-03-18 15:06:57,124 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:57] "GET /static/content/files/images/2025-03-10_22-20-20_testport-b.webp HTTP/1.1" 304 -
+2025-03-18 15:06:57,154 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:57] "GET /static/content/files/images/2025-03-10_22-20-21_testport-c.webp HTTP/1.1" 304 -
+2025-03-18 15:06:57,158 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:57] "GET /static/css/footer.css HTTP/1.1" 304 -
+2025-03-18 15:06:57,172 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:57] "GET /static/content/files/images/2025-03-10_22-20-38_testport-s.webp HTTP/1.1" 304 -
+2025-03-18 15:06:57,174 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:57] "GET /static/content/files/images/2025-03-10_22-20-29_testport-j.webp HTTP/1.1" 304 -
+2025-03-18 15:06:57,174 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:57] "GET /static/content/files/images/2025-03-10_22-20-28_testport-i.webp HTTP/1.1" 304 -
+2025-03-18 15:06:57,184 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:57] "GET /static/js/projets/portfolio.js HTTP/1.1" 304 -
+2025-03-18 15:06:57,189 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:57] "GET /static/content/files/images/2025-03-10_22-20-22_testport-d.webp HTTP/1.1" 304 -
+2025-03-18 15:06:57,199 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:57] "GET /static/content/files/images/2025-03-10_22-20-24_testport-f.webp HTTP/1.1" 304 -
+2025-03-18 15:06:57,201 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:57] "GET /static/content/files/images/2025-03-10_22-20-37_testport-r.webp HTTP/1.1" 304 -
+2025-03-18 15:06:57,210 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:57] "GET /static/content/files/images/2025-03-10_22-20-26_testport-g.webp HTTP/1.1" 304 -
+2025-03-18 15:06:57,219 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:57] "GET /static/content/files/images/2025-03-10_22-20-27_testport-h.webp HTTP/1.1" 304 -
+2025-03-18 15:06:57,226 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:57] "GET /static/content/files/images/2025-03-10_22-20-31_testport-k.webp HTTP/1.1" 304 -
+2025-03-18 15:06:57,231 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:57] "GET /static/content/files/images/2025-03-10_22-20-15_background-accueil.webp HTTP/1.1" 304 -
+2025-03-18 15:06:57,236 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:57] "GET /static/content/files/images/2025-03-10_22-20-32_testport-l.webp HTTP/1.1" 304 -
+2025-03-18 15:06:57,238 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:57] "GET /static/content/files/images/2025-03-10_22-20-33_testport-m.webp HTTP/1.1" 304 -
+2025-03-18 15:06:57,252 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:57] "GET /static/content/files/images/2025-03-10_22-20-35_testport-o.webp HTTP/1.1" 304 -
+2025-03-18 15:06:57,255 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:57] "GET /static/content/files/images/2025-03-10_22-20-36_testport-p.webp HTTP/1.1" 304 -
+2025-03-18 15:06:57,263 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:57] "GET /static/content/files/images/2025-03-10_22-20-36_testport-q.webp HTTP/1.1" 304 -
+2025-03-18 15:06:57,267 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:57] "GET /static/content/files/images/2025-02-03_14-47-13_social_discord.svg HTTP/1.1" 304 -
+2025-03-18 15:06:57,274 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:57] "GET /static/content/files/images/2025-02-03_14-47-37_social_discord_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:06:57,286 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:57] "GET /static/content/files/images/2025-02-03_14-48-25_social_insta_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:06:57,292 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:57] "GET /static/content/files/images/2025-02-03_14-48-12_social_insta.svg HTTP/1.1" 304 -
+2025-03-18 15:06:57,305 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:57] "GET /static/content/files/images/2025-02-03_14-48-50_social_tiktok.svg HTTP/1.1" 304 -
+2025-03-18 15:06:57,310 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:57] "GET /static/content/files/images/2025-02-03_14-49-08_social_tiktok_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:06:57,314 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:57] "GET /static/content/files/images/2025-02-03_14-49-18_social_x.svg HTTP/1.1" 304 -
+2025-03-18 15:06:57,318 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:57] "GET /static/content/files/images/2025-02-03_14-49-35_social_x_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:06:57,322 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:57] "GET /static/content/files/images/2025-02-03_14-49-51_social_bluesky.svg HTTP/1.1" 304 -
+2025-03-18 15:06:57,339 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:57] "GET /static/content/files/images/2025-02-03_14-50-05_social_bluesky_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:06:57,340 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:57] "GET /static/content/files/images/2025-02-03_14-50-27_social_linkedin.svg HTTP/1.1" 304 -
+2025-03-18 15:06:57,353 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:57] "GET /static/content/files/images/2025-02-03_14-50-42_social_linkedin_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:06:57,356 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:57] "GET /static/content/files/images/2025-02-03_14-51-06_social_youtube.svg HTTP/1.1" 304 -
+2025-03-18 15:06:57,359 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:57] "GET /static/content/files/images/2025-02-03_14-51-38_social_youtube_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:06:57,366 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:57] "GET /static/content/files/images/2025-03-10_22-20-17_social_pmc_hover.webp HTTP/1.1" 304 -
+2025-03-18 15:06:57,372 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:57] "GET /static/content/files/images/2025-02-27_19-08-30_social_pmc_svg.svg HTTP/1.1" 304 -
+2025-03-18 15:06:57,381 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:57] "GET /static/img/sprite.svg HTTP/1.1" 304 -
+2025-03-18 15:06:57,387 - INFO - 127.0.0.1 - - [18/Mar/2025 15:06:57] "GET /static/img/favicon.png HTTP/1.1" 304 -
+2025-03-18 15:07:06,211 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET / HTTP/1.1" 200 -
+2025-03-18 15:07:06,292 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/js/header.js HTTP/1.1" 304 -
+2025-03-18 15:07:06,310 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/css/index.css HTTP/1.1" 304 -
+2025-03-18 15:07:06,322 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/content/files/images/2025-03-10_22-19-58_favicon.webp HTTP/1.1" 304 -
+2025-03-18 15:07:06,322 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/css/header.css HTTP/1.1" 304 -
+2025-03-18 15:07:06,326 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/content/files/images/arrow_down.png HTTP/1.1" 304 -
+2025-03-18 15:07:06,545 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/content/files/images/rendermembers.webp HTTP/1.1" 304 -
+2025-03-18 15:07:06,557 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/content/files/images/2025-03-10_22-20-14_article_test_image.webp HTTP/1.1" 304 -
+2025-03-18 15:07:06,562 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/css/campagne.css HTTP/1.1" 304 -
+2025-03-18 15:07:06,576 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/css/footer.css HTTP/1.1" 304 -
+2025-03-18 15:07:06,578 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/content/files/images/2025-03-10_22-20-15_background-accueil.webp HTTP/1.1" 304 -
+2025-03-18 15:07:06,579 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/js/index.js HTTP/1.1" 304 -
+2025-03-18 15:07:06,582 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/content/files/images/2025-03-10_22-20-15_render_contact_us.webp HTTP/1.1" 304 -
+2025-03-18 15:07:06,588 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/js/campagne.js HTTP/1.1" 304 -
+2025-03-18 15:07:06,592 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/content/files/images/2025-02-03_14-47-13_social_discord.svg HTTP/1.1" 304 -
+2025-03-18 15:07:06,596 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/content/files/images/2025-02-03_14-47-37_social_discord_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:07:06,604 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/content/files/images/2025-02-03_14-48-12_social_insta.svg HTTP/1.1" 304 -
+2025-03-18 15:07:06,610 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/content/files/images/2025-02-03_14-48-25_social_insta_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:07:06,614 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/content/files/images/2025-02-03_14-48-50_social_tiktok.svg HTTP/1.1" 304 -
+2025-03-18 15:07:06,624 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/content/files/images/2025-02-03_14-49-08_social_tiktok_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:07:06,630 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/content/files/images/2025-02-03_14-49-18_social_x.svg HTTP/1.1" 304 -
+2025-03-18 15:07:06,636 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/content/files/images/2025-02-03_14-49-35_social_x_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:07:06,642 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/content/files/images/2025-02-03_14-49-51_social_bluesky.svg HTTP/1.1" 304 -
+2025-03-18 15:07:06,645 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/content/files/images/2025-02-03_14-50-05_social_bluesky_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:07:06,652 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/content/files/images/2025-02-03_14-50-27_social_linkedin.svg HTTP/1.1" 304 -
+2025-03-18 15:07:06,658 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/content/files/images/2025-02-03_14-50-42_social_linkedin_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:07:06,664 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/content/files/images/2025-02-03_14-51-06_social_youtube.svg HTTP/1.1" 304 -
+2025-03-18 15:07:06,668 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/content/files/images/2025-02-03_14-51-38_social_youtube_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:07:06,673 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/content/files/images/2025-03-10_22-20-17_social_pmc_hover.webp HTTP/1.1" 304 -
+2025-03-18 15:07:06,677 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/content/files/images/2025-02-27_19-08-30_social_pmc_svg.svg HTTP/1.1" 304 -
+2025-03-18 15:07:06,684 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/img/sprite.svg HTTP/1.1" 304 -
+2025-03-18 15:07:06,688 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/content/files/images/2025-03-10_22-20-18_brand_background.webp HTTP/1.1" 304 -
+2025-03-18 15:07:06,697 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/content/files/images/2025-03-10_22-19-02_logo.webp HTTP/1.1" 304 -
+2025-03-18 15:07:06,697 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/content/files/images/2025-03-10_19-42-03_joyca.webp HTTP/1.1" 304 -
+2025-03-18 15:07:06,705 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/content/files/images/2025-03-10_22-19-59_betc.webp HTTP/1.1" 304 -
+2025-03-18 15:07:06,713 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/content/files/images/2025-03-10_22-20-01_edf.webp HTTP/1.1" 304 -
+2025-03-18 15:07:06,717 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/content/files/images/2025-03-10_22-20-01_la-chose.webp HTTP/1.1" 304 -
+2025-03-18 15:07:06,721 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/content/files/images/2025-03-10_22-20-02_havas.webp HTTP/1.1" 304 -
+2025-03-18 15:07:06,727 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/content/files/images/2025-03-10_22-20-02_grand%20poitiers.webp HTTP/1.1" 304 -
+2025-03-18 15:07:06,732 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/content/files/images/2025-03-10_22-20-02_adem.webp HTTP/1.1" 304 -
+2025-03-18 15:07:06,738 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/content/files/images/2025-03-10_22-20-03_gotaga.webp HTTP/1.1" 304 -
+2025-03-18 15:07:06,744 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/content/files/images/2025-03-10_22-20-03_steve.webp HTTP/1.1" 304 -
+2025-03-18 15:07:06,752 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/content/files/images/2025-03-10_22-20-04_apericube.webp HTTP/1.1" 304 -
+2025-03-18 15:07:06,754 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/img/favicon.png HTTP/1.1" 304 -
+2025-03-18 15:07:06,823 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/content/files/images/2025-03-10_22-19-31_membre_drsallan.webp HTTP/1.1" 304 -
+2025-03-18 15:07:06,911 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/content/files/images/2025-03-10_22-19-09_membre_nizhuan.webp HTTP/1.1" 304 -
+2025-03-18 15:07:06,942 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/content/files/images/2025-03-10_22-19-04_membre_bigbublle.webp HTTP/1.1" 304 -
+2025-03-18 15:07:06,980 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:06] "GET /static/content/files/images/2025-03-10_22-20-17_mascotte.webp HTTP/1.1" 304 -
+2025-03-18 15:07:07,027 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:07] "GET /static/content/files/images/2025-03-10_22-19-38_membre_easyfrost.webp HTTP/1.1" 304 -
+2025-03-18 15:07:07,043 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:07] "GET /static/content/files/images/2025-03-10_22-19-17_membre_alexandra.webp HTTP/1.1" 304 -
+2025-03-18 15:07:07,225 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:07] "GET /static/content/files/images/2025-03-10_22-20-09_article_test_logo.webp HTTP/1.1" 304 -
+2025-03-18 15:07:07,622 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:07] "GET /static/content/files/images/V2_banniere_membre_1280x540%201.png HTTP/1.1" 304 -
+2025-03-18 15:07:58,008 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:58] "GET /membres HTTP/1.1" 200 -
+2025-03-18 15:07:58,085 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:58] "GET /static/css/teams/membres.css HTTP/1.1" 304 -
+2025-03-18 15:07:58,094 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:58] "GET /static/css/header.css HTTP/1.1" 304 -
+2025-03-18 15:07:58,097 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:58] "GET /static/css/index.css HTTP/1.1" 304 -
+2025-03-18 15:07:58,100 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:58] "GET /static/content/files/images/2025-03-10_22-19-58_favicon.webp HTTP/1.1" 304 -
+2025-03-18 15:07:58,109 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:58] "GET /static/content/files/images/2025-03-10_22-19-04_membre_bigbublle.webp HTTP/1.1" 304 -
+2025-03-18 15:07:58,337 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:58] "GET /static/content/files/images/2025-03-10_22-19-09_membre_nizhuan.webp HTTP/1.1" 304 -
+2025-03-18 15:07:58,346 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:58] "GET /static/content/files/images/2025-03-10_22-19-13_membre_adri.webp HTTP/1.1" 304 -
+2025-03-18 15:07:58,350 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:58] "GET /static/content/files/images/2025-03-10_22-21-01_membre_solheaven.webp HTTP/1.1" 304 -
+2025-03-18 15:07:58,356 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:58] "GET /static/content/files/images/2025-03-10_22-20-43_membre_mathis.webp HTTP/1.1" 304 -
+2025-03-18 15:07:58,358 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:58] "GET /static/css/footer.css HTTP/1.1" 304 -
+2025-03-18 15:07:58,365 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:58] "GET /static/content/files/images/2025-03-10_22-20-57_membre_popi_craft.webp HTTP/1.1" 304 -
+2025-03-18 15:07:58,370 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:58] "GET /static/content/files/images/2025-03-10_22-19-38_membre_easyfrost.webp HTTP/1.1" 304 -
+2025-03-18 15:07:58,373 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:58] "GET /static/content/files/images/2025-03-10_22-20-47_membre_nemerios.webp HTTP/1.1" 304 -
+2025-03-18 15:07:58,384 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:58] "GET /static/content/files/images/2025-03-10_22-21-13_membre_vitalie.webp HTTP/1.1" 304 -
+2025-03-18 15:07:58,388 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:58] "GET /static/content/files/images/2025-03-10_22-21-04_membre_spino.webp HTTP/1.1" 304 -
+2025-03-18 15:07:58,390 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:58] "GET /static/content/files/images/2025-03-10_22-19-53_membre_marvin_99.webp HTTP/1.1" 304 -
+2025-03-18 15:07:58,397 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:58] "GET /static/content/files/images/2025-03-10_22-19-48_membre_lordldoitor.webp HTTP/1.1" 304 -
+2025-03-18 15:07:58,403 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:58] "GET /static/content/files/images/2025-03-10_22-19-27_membre_dorian_04.webp HTTP/1.1" 304 -
+2025-03-18 15:07:58,409 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:58] "GET /static/content/files/images/2025-03-10_22-19-44_membre_gioco.webp HTTP/1.1" 304 -
+2025-03-18 15:07:58,414 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:58] "GET /static/content/files/images/2025-03-10_22-21-22_membre_xraider.webp HTTP/1.1" 304 -
+2025-03-18 15:07:58,419 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:58] "GET /static/content/files/images/2025-03-10_22-19-31_membre_drsallan.webp HTTP/1.1" 304 -
+2025-03-18 15:07:58,424 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:58] "GET /static/content/files/images/2025-03-10_22-19-22_membre_carnagiul.webp HTTP/1.1" 304 -
+2025-03-18 15:07:58,432 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:58] "GET /static/img/sprite.svg HTTP/1.1" 304 -
+2025-03-18 15:07:58,432 - INFO - 127.0.0.1 - - [18/Mar/2025 15:07:58] "GET /static/content/files/images/2025-03-10_22-20-15_background-accueil.webp HTTP/1.1" 304 -
+Chargement de la page marketplace...
+Récupération des données...
+Contexte préparé pour le rendu.
+2025-03-18 15:08:00,280 - INFO - 127.0.0.1 - - [18/Mar/2025 15:08:00] "GET /marketplace HTTP/1.1" 200 -
+2025-03-18 15:08:00,368 - INFO - 127.0.0.1 - - [18/Mar/2025 15:08:00] "GET /static/css/index.css HTTP/1.1" 304 -
+2025-03-18 15:08:00,371 - INFO - 127.0.0.1 - - [18/Mar/2025 15:08:00] "GET /static/css/marketplace.css HTTP/1.1" 304 -
+2025-03-18 15:08:00,376 - INFO - 127.0.0.1 - - [18/Mar/2025 15:08:00] "GET /static/css/header.css HTTP/1.1" 304 -
+2025-03-18 15:08:00,377 - INFO - 127.0.0.1 - - [18/Mar/2025 15:08:00] "GET /static/content/files/images/2025-03-10_22-19-58_favicon.webp HTTP/1.1" 304 -
+2025-03-18 15:08:00,380 - INFO - 127.0.0.1 - - [18/Mar/2025 15:08:00] "GET /static/img/assets/minecoin.png HTTP/1.1" 304 -
+2025-03-18 15:08:00,485 - INFO - 127.0.0.1 - - [18/Mar/2025 15:08:00] "GET /static/img/assets/star.png HTTP/1.1" 304 -
+2025-03-18 15:08:00,486 - INFO - 127.0.0.1 - - [18/Mar/2025 15:08:00] "GET /static/css/footer.css HTTP/1.1" 304 -
+2025-03-18 15:08:00,695 - INFO - 127.0.0.1 - - [18/Mar/2025 15:08:00] "GET /static/content/files/images/2025-02-03_14-47-13_social_discord.svg HTTP/1.1" 304 -
+2025-03-18 15:08:00,714 - INFO - 127.0.0.1 - - [18/Mar/2025 15:08:00] "GET /static/content/files/images/2025-02-03_14-48-12_social_insta.svg HTTP/1.1" 304 -
+2025-03-18 15:08:00,715 - INFO - 127.0.0.1 - - [18/Mar/2025 15:08:00] "GET /static/content/files/images/2025-02-03_14-48-50_social_tiktok.svg HTTP/1.1" 304 -
+2025-03-18 15:08:00,716 - INFO - 127.0.0.1 - - [18/Mar/2025 15:08:00] "GET /static/content/files/images/2025-03-10_22-20-15_background-accueil.webp HTTP/1.1" 304 -
+2025-03-18 15:08:00,717 - INFO - 127.0.0.1 - - [18/Mar/2025 15:08:00] "GET /static/content/files/images/2025-02-03_14-49-08_social_tiktok_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:08:00,719 - INFO - 127.0.0.1 - - [18/Mar/2025 15:08:00] "GET /static/content/files/images/2025-02-03_14-48-25_social_insta_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:08:00,719 - INFO - 127.0.0.1 - - [18/Mar/2025 15:08:00] "GET /static/content/files/images/2025-02-03_14-47-37_social_discord_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:08:00,740 - INFO - 127.0.0.1 - - [18/Mar/2025 15:08:00] "GET /static/content/files/images/2025-02-03_14-49-18_social_x.svg HTTP/1.1" 304 -
+2025-03-18 15:08:00,753 - INFO - 127.0.0.1 - - [18/Mar/2025 15:08:00] "GET /static/content/files/images/2025-02-03_14-49-35_social_x_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:08:00,753 - INFO - 127.0.0.1 - - [18/Mar/2025 15:08:00] "GET /static/content/files/images/2025-02-03_14-50-05_social_bluesky_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:08:00,756 - INFO - 127.0.0.1 - - [18/Mar/2025 15:08:00] "GET /static/content/files/images/2025-02-03_14-49-51_social_bluesky.svg HTTP/1.1" 304 -
+2025-03-18 15:08:00,764 - INFO - 127.0.0.1 - - [18/Mar/2025 15:08:00] "GET /static/content/files/images/2025-02-03_14-50-27_social_linkedin.svg HTTP/1.1" 304 -
+2025-03-18 15:08:00,765 - INFO - 127.0.0.1 - - [18/Mar/2025 15:08:00] "GET /static/content/files/images/2025-02-03_14-50-42_social_linkedin_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:08:00,774 - INFO - 127.0.0.1 - - [18/Mar/2025 15:08:00] "GET /static/content/files/images/2025-02-03_14-51-06_social_youtube.svg HTTP/1.1" 304 -
+2025-03-18 15:08:00,782 - INFO - 127.0.0.1 - - [18/Mar/2025 15:08:00] "GET /static/content/files/images/2025-02-03_14-51-38_social_youtube_hover.svg HTTP/1.1" 304 -
+2025-03-18 15:08:00,790 - INFO - 127.0.0.1 - - [18/Mar/2025 15:08:00] "GET /static/content/files/images/2025-03-10_22-20-17_social_pmc_hover.webp HTTP/1.1" 304 -
+2025-03-18 15:08:00,793 - INFO - 127.0.0.1 - - [18/Mar/2025 15:08:00] "GET /static/content/files/images/2025-02-27_19-08-30_social_pmc_svg.svg HTTP/1.1" 304 -
+2025-03-18 15:08:00,797 - INFO - 127.0.0.1 - - [18/Mar/2025 15:08:00] "GET /static/img/sprite.svg HTTP/1.1" 304 -
+2025-03-18 15:08:00,802 - INFO - 127.0.0.1 - - [18/Mar/2025 15:08:00] "GET /static/img/favicon.png HTTP/1.1" 304 -
+2025-03-18 15:08:02,533 - INFO - 127.0.0.1 - - [18/Mar/2025 15:08:02] "GET /marketplace/products?page=2 HTTP/1.1" 200 -
+2025-03-18 15:08:02,954 - INFO - 127.0.0.1 - - [18/Mar/2025 15:08:02] "GET /marketplace/products?page=2 HTTP/1.1" 200 -
+2025-03-18 15:08:04,289 - INFO - 127.0.0.1 - - [18/Mar/2025 15:08:04] "GET /marketplace/products?page=4 HTTP/1.1" 200 -
+2025-03-18 15:08:04,885 - INFO - 127.0.0.1 - - [18/Mar/2025 15:08:04] "GET /marketplace/products?page=4 HTTP/1.1" 200 -
