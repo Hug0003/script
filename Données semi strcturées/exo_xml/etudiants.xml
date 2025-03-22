@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<etudiants>
+    <etudiant>
+        <nom>Dupont</nom>
+        <prenom>Marie</prenom>
+        <age>20</age>
+        <notes>
+            <matiere nom="math">18</matiere>
+            <matiere nom="physique">17</matiere>
+        </notes>
+    </etudiant>
+    <etudiant>
+        <nom>Martin</nom>
+        <prenom>Jean</prenom>
+        <age>21</age>
+        <notes>
+            <matiere nom="math">15</matiere>
+            <matiere nom="physique">16</matiere>
+        </notes>
+    </etudiant>
+    <etudiant>
+        <nom>Bernard</nom>
+        <prenom>Sophie</prenom>
+        <age>19</age>
+        <notes>
+            <matiere nom="math">17</matiere>
+            <matiere nom="physique">19</matiere>
+        </notes>
+    </etudiant>
+    <etudiant>
+        <nom>Petit</nom>
+        <prenom>Lucas</prenom>
+        <age>22</age>
+        <notes>
+            <matiere nom="math">14</matiere>
+            <matiere nom="physique">15</matiere>
+        </notes>
+    </etudiant>
+    <etudiant>
+        <nom>Durand</nom>
+        <prenom>Emma</prenom>
+        <age>20</age>
+        <notes>
+            <matiere nom="math">16</matiere>
+            <matiere nom="physique">18</matiere>
+        </notes>
+    </etudiant>
+</etudiants> 
