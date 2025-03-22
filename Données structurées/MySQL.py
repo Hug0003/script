@@ -1,8 +1,5 @@
-import pymysql
-connexion = pymysql.connect(host='62.4.30.230',   
-                            port=3306,
-                            user='web',
-                            passwd='sKKeo_G/B)XtLty]',
-                            db='web',
-                            autocommit=True)
+import sqlite3
+
+# Remplacer la connexion MySQL par une connexion SQLite
+connexion = sqlite3.connect('Données structurées/database.sqlite')
 curseur = connexion.cursor()
