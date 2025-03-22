@@ -1,4 +1,3 @@
-
 import MySQL
 ################################################################
 #                        SQL TABLES                            #
@@ -81,15 +80,13 @@ class Navbar:
             order = self.order if self.order is not None else 0
         
         new_position = self.set_position(side, order, parent_id)
-        connexion.ping(reconnect=True)
-        request = "UPDATE Navbar SET position = %s WHERE id = %s"
+        request = "UPDATE Navbar SET position = ? WHERE id = ?"
         cursor.execute(request, (new_position, self.id))
         connexion.commit()
         self._position = new_position
 
     def initialize(self, connexion, cursor):
-        connexion.ping(reconnect=True)
-        request = "SELECT * FROM Navbar WHERE id = %s"
+        request = "SELECT * FROM Navbar WHERE id = ?"
         cursor.execute(request, (self.id,))
         result = cursor.fetchone()
         self.label = result[1]
@@ -98,29 +95,25 @@ class Navbar:
         self.redirection = result[4]
 
     def update_label(self, connexion, cursor, label: str):
-        connexion.ping(reconnect=True)
-        request = "UPDATE Navbar SET label = %s WHERE id = %s"
+        request = "UPDATE Navbar SET label = ? WHERE id = ?"
         cursor.execute(request, (label, self.id))
         connexion.commit()
         self.label = label
 
     def update_id_Navbar(self, connexion, cursor, id_Navbar: int):
-        connexion.ping(reconnect=True)
-        request = "UPDATE Navbar SET id_Navbar = %s WHERE id = %s"
+        request = "UPDATE Navbar SET id_Navbar = ? WHERE id = ?"
         cursor.execute(request, (id_Navbar, self.id))
         connexion.commit()
         self.id_Navbar = id_Navbar
 
     def update_redirection(self, connexion, cursor, redirection: str):
-        connexion.ping(reconnect=True)
-        request = "UPDATE Navbar SET redirection = %s WHERE id = %s"
+        request = "UPDATE Navbar SET redirection = ? WHERE id = ?"
         cursor.execute(request, (redirection, self.id))
         connexion.commit()
         self.redirection = redirection
 
     def delete(self, connexion, cursor):
-        connexion.ping(reconnect=True)
-        delete_request = "DELETE FROM Navbar WHERE id = %s"
+        delete_request = "DELETE FROM Navbar WHERE id = ?"
         cursor.execute(delete_request, (self.id,))
         connexion.commit()
         navbars.remove(self)
@@ -142,15 +135,13 @@ def get_navbar(id_navbar) -> Navbar:
     return None
 
 def create_navbar(connexion, cursor, label: str, position: int, id_Navbar: int = None, redirection: str = None) -> Navbar:
-    connexion.ping(reconnect=True)
-    request = "INSERT INTO Navbar (label, position, id_Navbar, redirection) VALUES (%s, %s, %s, %s)"
+    request = "INSERT INTO Navbar (label, position, id_Navbar, redirection) VALUES (?, ?, ?, ?)"
     cursor.execute(request, (label, position, id_Navbar, redirection))
     connexion.commit()
     navbar = Navbar(cursor.lastrowid, label, position, id_Navbar, redirection)
     return navbar
 
 def initialize_navbars(connexion, cursor):
-    connexion.ping(reconnect=True)
     request = "SELECT id FROM Navbar ORDER BY id"
     cursor.execute(request)
     results = cursor.fetchall()
