@@ -6,40 +6,7 @@ import os
 current_dir = os.path.dirname(os.path.abspath(__file__))
 xml_file = os.path.join(current_dir, 'etudiants.xml')
 
-def reinitialiser_fichier():
-    # Créer la structure XML de base
-    root = ET.Element('etudiants')
-    
-    # Ajouter Hugo
-    hugo = ET.SubElement(root, 'etudiant')
-    ET.SubElement(hugo, 'nom').text = 'Meuriel'
-    ET.SubElement(hugo, 'prenom').text = 'Hugo'
-    ET.SubElement(hugo, 'age').text = '18'
-    notes_hugo = ET.SubElement(hugo, 'notes')
-    math_hugo = ET.SubElement(notes_hugo, 'matiere')
-    math_hugo.set('nom', 'math')
-    math_hugo.text = '20'
-    donnees_hugo = ET.SubElement(notes_hugo, 'matiere')
-    donnees_hugo.set('nom', 'base de données')
-    donnees_hugo.text = '20'
-    
-    # Ajouter Mathis
-    mathis = ET.SubElement(root, 'etudiant')
-    ET.SubElement(mathis, 'nom').text = 'Bruel'
-    ET.SubElement(mathis, 'prenom').text = 'Mathis'
-    ET.SubElement(mathis, 'age').text = '18'
-    notes_mathis = ET.SubElement(mathis, 'notes')
-    math_mathis = ET.SubElement(notes_mathis, 'matiere')
-    math_mathis.set('nom', 'math')
-    math_mathis.text = '0'
-    donnees_mathis = ET.SubElement(notes_mathis, 'matiere')
-    donnees_mathis.set('nom', 'base de données')
-    donnees_mathis.text = '0'
-    
-    # Sauvegarder le fichier
-    tree = ET.ElementTree(root)
-    tree.write(xml_file, encoding='utf-8', xml_declaration=True)
-    print("\nFichier réinitialisé avec succès!")
+
 
 def etudiant_existe(nom, prenom):
     # Parser le fichier XML
@@ -135,9 +102,6 @@ def afficher_etudiants():
     print(f"Moyenne des notes de mathématiques : {df['note_math'].mean():.2f}")
     print(f"Moyenne des notes de base de données : {df['note_donnees'].mean():.2f}")
 
-# Réinitialiser le fichier et afficher la liste
-print("Réinitialisation du fichier...")
-reinitialiser_fichier()
 
 # Ajouter un nouvel étudiant
 print("\nAjout d'un nouvel étudiant...")
