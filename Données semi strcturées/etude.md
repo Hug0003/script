@@ -88,3 +88,56 @@ Chaque format a ses points forts et ses cas d'utilisation spécifiques. Le choix
 - Pour des APIs web et échanges de données : JSON
 - Pour des configurations et documentations : YAML
 - Pour des documents complexes et structurés : XML
+
+## Bibliothèques Python Utilisées
+
+### Bibliothèques Standards
+- **os** :
+  * Utilisée dans tous les scripts
+  * Gestion des chemins de fichiers
+  * Accès au système de fichiers
+  * Exemple : `os.path.dirname(os.path.abspath(__file__))`
+
+### Bibliothèques Tierces
+- **pandas** :
+  * Utilisée pour la manipulation des données tabulaires
+  * Conversion des données en DataFrame
+  * Calcul de statistiques (moyennes)
+  * Export vers CSV
+  * Exemple : `df = pd.DataFrame(etudiants_data)`
+
+- **json** :
+  * Bibliothèque standard pour le format JSON
+  * Parsing et sérialisation des données
+  * Gestion des erreurs de format
+  * Exemple : `json.load(fichier)`
+
+- **yaml** :
+  * Bibliothèque pour le format YAML
+  * Parsing et sérialisation des données
+  * Support des caractères Unicode
+  * Exemple : `yaml.safe_load(f)`
+
+- **xml.etree.ElementTree** :
+  * Bibliothèque standard pour XML
+  * Création et manipulation d'arbres XML
+  * Parsing et sérialisation
+  * Exemple : `ET.parse(xml_file)`
+
+### Fonctionnalités Communes Implémentées
+- Gestion des fichiers :
+  * Lecture et écriture avec gestion des erreurs
+  * Support de l'encodage UTF-8
+  * Vérification de l'existence des fichiers
+
+- Manipulation des données :
+  * Conversion entre différents formats
+  * Validation des données
+  * Calcul de statistiques
+
+- Interface utilisateur :
+  * Affichage formaté des données
+  * Messages d'erreur explicites
+  * Confirmation des opérations
+
+

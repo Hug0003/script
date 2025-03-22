@@ -1,23 +1,13 @@
 {
     "etudiants": [
         {
-            "nom": "Dupont",
-            "prenom": "Alice",
-            "age": 20,
+            "nom": "Bruel",
+            "prenom": "Mathis",
+            "age": 18,
             "notes": [
-                15,
-                17,
-                18
-            ]
-        },
-        {
-            "nom": "Martin",
-            "prenom": "Bob",
-            "age": 21,
-            "notes": [
-                14,
-                16,
-                19
+                0,
+                0,
+                0
             ]
         },
         {

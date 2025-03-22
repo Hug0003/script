@@ -1,2 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<etudiants><etudiant><nom>Meuriel</nom><prenom>Hugo</prenom><age>18</age><notes><matiere nom="math">20</matiere><matiere nom="base de données">20</matiere></notes></etudiant><etudiant><nom>Bruel</nom><prenom>Mathis</prenom><age>18</age><notes><matiere nom="math">0</matiere><matiere nom="base de données">0</matiere></notes></etudiant><etudiant><nom>Remi</nom><prenom>Durand</prenom><age>19</age><notes><matiere nom="math">-6</matiere><matiere nom="base de données">-6</matiere></notes></etudiant></etudiants>
+<!-- IA -->
+<etudiants>
+    <etudiant>
+        <nom>Meuriel</nom>
+        <prenom>Hugo</prenom>
+        <age>18</age>
+        <notes>
+            <matiere nom="math">20</matiere>
+            <matiere nom="base de données">20</matiere>
+        </notes>
+    </etudiant>
+    <etudiant>
+        <nom>Bruel</nom>
+        <prenom>Mathis</prenom>
+        <age>18</age>
+        <notes>
+            <matiere nom="math">0</matiere>
+            <matiere nom="base de données">0</matiere>
+        </notes>
+    </etudiant>
+    <etudiant>
+        <nom>Remi</nom>
+        <prenom>Durand</prenom>
+        <age>19</age>
+        <notes>
+            <matiere nom="math">-6</matiere>
+            <matiere nom="base de données">-6</matiere>
+        </notes>
+    </etudiant>
+</etudiants>
