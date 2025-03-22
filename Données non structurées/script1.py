@@ -154,3 +154,45 @@ print("-------------------------------- Fin initialisation ---------------------
 print("-------------------------------- Début infos pages -------------------------------")
 traitement_content_pages(content)
 print("-------------------------------- Fin infos pages -------------------------------")
+
+def exploit():
+    """
+    Fonction pour afficher des statistiques sur les données récupérées
+    """
+    print("\n---------- Statistiques des données ----------")
+    
+    # Stats sur les initialisations
+    print("\nInitialisations:")
+    print(f"Nombre total d'initialisations: {len(initializations)}")
+    if initializations:
+        print("Composants initialisés:")
+        for comp in initializations:
+            print(f"- {comp}")
+    
+    # Stats sur les pages
+    print("\nPages:")
+    print(f"Nombre total de pages/requêtes: {len(pages)}")
+    
+    # Compter les codes de statut
+    status_codes = {}
+    for page in pages.values():
+        if "type_requet" in page:
+            status = page["type_requet"]
+            status_codes[status] = status_codes.get(status, 0) + 1
+    
+    print("\nCodes de statut HTTP:")
+    for code, count in status_codes.items():
+        print(f"Code {code}: {count} requêtes")
+    
+    # Types de ressources chargées
+    resource_types = {}
+    for page in pages.values():
+        if "element_charge" in page:
+            resource = page["element_charge"].split('.')[-1] if '.' in page["element_charge"] else "unknown"
+            resource_types[resource] = resource_types.get(resource, 0) + 1
+    
+    print("\nTypes de ressources chargées:")
+    for type_, count in resource_types.items():
+        print(f"{type_}: {count} fichiers")
+
+exploit()
