@@ -1,0 +1,19 @@
+etudiants:
+- nom: Meuriel
+  prenom: Hugo
+  age: 18
+  notes:
+    math: 20
+    base_de_donnees: 20
+- nom: Bruel
+  prenom: Mathis
+  age: 18
+  notes:
+    math: 0
+    base_de_donnees: 0
+- nom: Remi
+  prenom: Durand
+  age: 19
+  notes:
+    math: -6
+    base_de_donnees: -6
