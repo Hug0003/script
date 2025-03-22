@@ -1,0 +1,45 @@
+{
+    "etudiants": [
+        {
+            "nom": "Dupont",
+            "prenom": "Alice",
+            "age": 20,
+            "notes": [
+                15,
+                17,
+                18
+            ]
+        },
+        {
+            "nom": "Martin",
+            "prenom": "Bob",
+            "age": 21,
+            "notes": [
+                14,
+                16,
+                19
+            ]
+        },
+        {
+            "nom": "Meuriel",
+            "prenom": "Hugo",
+            "age": 18,
+            "notes": [
+                20,
+                20,
+                20
+            ]
+        }
+    ],
+    "cours": {
+        "mathematiques": {
+            "professeur": "Bernad"
+        },
+        "Anglais": {
+            "professeur": "David"
+        },
+        "Réseau": {
+            "professeur": "Mickael"
+        }
+    }
+}
